@@ -1,0 +1,47 @@
+{
+   "workshoptitle": "Daten mit Sicherheit auf Zeilenebene und Spaltenebene mit Oracle VPD schützen",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+     {
+       "title": "Einführung",
+       "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+       "publisheddate": "09/01/2020",
+       "filename": "../../vpd/introduction/introduction_de.md"
+     },
+     {
+      "title": "Erste Schritte",
+      "description": "Kostenlos testen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+    {
+      "title": "Übung 1: Setup vorbereiten",
+      "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+      "publisheddate": "03/19/2023",
+      "filename": "../../../common/prepare-setup/prepare-setup_de.md",
+      "type": "aso"
+    },
+    {
+      "title": "Übung 2: Umgebungssetup",
+      "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+      "publisheddate": "03/30/2023",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+    },
+    {
+      "title": "Übung 3: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "03/14/2023",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+     {
+       "title": "Übung 4: Daten mit Sicherheit auf Zeilenebene und Spaltenebene mit Oracle VPD schützen",
+       "description": "In dieser Übung lernen Sie, wie Sie Oracle Virtual Private Database (VPD) nutzen.",
+       "publisheddate": "10/20/2020",
+       "filename": "../../vpd/vpd-livelab/vpd_de.md"
+     },
+     {
+       "title": "Brauchen Sie Hilfe?",
+       "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+       "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+     }
+   ]
+ }
