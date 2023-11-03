@@ -1,0 +1,52 @@
+{
+    "workshoptitle": "Data Safeでわずか90分でデータ・セキュリティ・スーパーヒーローになる",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "概要",
+        "description": "このラボでは、ワークショップに関する情報を提供します。",
+        "filename": "../../introduction/introduction-ocw_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "環境の準備",
+        "description": "独自のテナンシでワークショップを実行する前提条件。",
+        "filename": "../../prepare-environment/prepare-environment_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "演習1: Autonomous DatabaseのOracle Data Safeへの登録",
+        "description": "このラボでは、共有Exadataインフラストラクチャ上のAutonomous Data WarehouseをOracle Data Safeに登録し、サンプル・データをロードする方法を示します。",
+        "filename": "../../register-autonomous-database/register-autonomous-database_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "演習2: データベース構成の評価",
+        "description": "このラボでは、Oracle Data Safeのセキュリティ評価機能を使用して、Autonomous Databaseのデータベース構成を評価する方法を示します。",
+        "filename": "../../assess-database-configurations/assess-database-configurations-ocw_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "演習3: データベース・ユーザーの評価",
+        "description": "このラボでは、Oracle Data Safeのユーザー評価機能を使用してAutonomous Databaseのデータベース・ユーザーを評価する方法を示します。",
+        "filename": "../../assess-database-users/assess-database-users-ocw_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "演習4: Discover機密データ",
+        "description": "このラボでは、Oracle Data Safeのデータ検出機能を使用してターゲット・データベースの機密データを検出する方法を示します。",
+        "filename": "../../discover-sensitive-data/discover-sensitive-data-ocw_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "演習5: 機密データのマスク",
+        "description": "このラボでは、Oracle Data Safeのデータ・マスキング機能を使用してターゲット・データベースの機密データをマスクする方法について説明します。",
+        "filename": "../../mask-sensitive-data/mask-sensitive-data-ocw_ja.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Oracle CloudWorld 2022 - ヘルプの入手",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+        }
+    ]
+  }
