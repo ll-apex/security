@@ -1,0 +1,57 @@
+{
+    "workshoptitle": "Oracle Database 21cセキュリティのスタート・ガイド",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "filename": "../../introduction/intro-security_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_ja.md"
+        },
+        {
+            "title": "演習1: SSHキーの作成",
+            "description": "導入に続くラボには、演習1から番号が付けられます。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ja.md"
+        },
+        {
+            "title": "演習2: DBCS VMデータベースの作成",
+            "filename": "https://raw.githubusercontent.com/oracle-livelabs/database/main/db-21c-fundamentals/create-oci-vm-db/create-oci-vm-db/create-oci-vm-db-vcn_ja.md"
+        },
+        {
+            "title": "演習3: 21Cの設定",
+            "filename": "../../setup/setup_ja.md"
+        },
+        {
+            "title": "演習4: ブロックチェーンの表および行の管理",
+            "filename": "../../blockchain-table/blockchain-table_ja.md"
+        },
+        {
+            "title": "演習5: 表領域の暗号化アルゴリズムの設定",
+            "filename": "../../tbsp-encryption/tbsp-encryption_ja.md"
+        },
+        {
+            "title": "演習6: レルムを使用したローカル・ユーザーによる共通操作のブロックの防止",
+            "filename": "../../realms/realms_ja.md"
+        },
+        {
+            "title": "演習7: 認証と管理",
+            "filename": "../../introduction/intro-admin_ja.md"
+        },
+        {
+            "title": "演習8: アップグレードしたパスワード・ファイルの大/小文字の区別を強制",
+            "filename": "../../upgraded-pwd/upgraded-pwd_ja.md"
+        },
+        {
+            "title": "演習9: パスワードの長さの強制",
+            "filename": "../../enforce-min-pwd/enforce-min-pwd_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
