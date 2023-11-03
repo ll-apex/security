@@ -1,0 +1,34 @@
+{
+  "workshoptitle": "Seguridad de base de datos - Seguridad de etiquetas",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "Comprender la arquitectura de este taller y lo que puede hacer",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-label-security_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Cómo inicializar e iniciar todos los componentes del taller",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Label Security (OLS)",
+      "description": "En este laboratorio, puede ver cómo aprovechar Oracle Label Security (OLS)",
+      "publisheddate": "10/20/2020",
+      "filename": "../../label-security/label-security_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
