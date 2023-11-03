@@ -1,0 +1,93 @@
+{
+    "workshoptitle": "アイデンティティとセキュリティを一元的に管理するクラウド・ネイティブ・アクセス・ガバナンス",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "概要",
+            "description": "導入は常に最初です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "演習1: コンパートメントとアイデンティティ・ドメインの作成",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "../../create-identity-domain/create-identity-domain_ja.md"
+        },
+        {
+            "title": "演習2: 設定の準備",
+            "description": "ORMスタックをダウンロードし、既存のVCNのセキュリティ・ルールを更新する方法",
+            "filename": "../../prepare-setup/prepare-setup_ja.md"
+        },
+        {
+            "title": "演習3: 環境設定",
+            "description": "ワークショップ環境をプロビジョニングして接続する方法",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ja.md"
+        },
+        {
+            "title": "演習4: アクセス・ガバナンス・ポリシーの作成",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "../../create-ag-group-policies/create-ag-group-policies_ja.md"
+        },
+        {
+            "title": "演習5: OCI IAMのOCIポリシー、VCN、グループ、コンパートメントおよびユーザーの作成",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "../../create-oci-resource/create-oci-resource_ja.md"
+        },
+        {
+            "title": "演習6: Oracle Access Governanceサービス・インスタンスの設定および構成",
+            "description": "導入後のラボには、Labから始まる番号が付けられます ",
+            "filename": "../../instance-setup/ag-instance-setup_ja.md"
+        },
+        {
+            "title": "演習7: OIGおよびOracle Databaseへの接続",
+            "description": "OIGおよびOracle DB接続システムの追加 ",
+            "filename": "../../integrate-oag-db/integrate-oag-db_ja.md"
+        },
+        {
+            "title": "演習8: Oracle Cloud Infrastructure (OCI)への接続",
+            "description": "導入後のラボには、Labから始まる番号が付けられます ",
+            "filename": "../../connect-oci-iam/connect-oci-iam_ja.md"
+        },
+        {
+            "title": "演習9: OCI IAMのアイデンティティのマーク",
+            "description": "導入後のラボには、Labから始まる番号が付けられます ",
+            "filename": "../../mark-identities/mark-identities_ja.md"
+        },
+        {
+            "title": "演習10: Oracle Database接続システムのアクセス制御タスクの実行",
+            "filename": "../../access-control/access-control_ja.md"
+        },
+        {
+            "title": "演習11: Oracle Database接続システムのアクセス・レビューの実行",
+            "description": "導入後のラボには、Labから始まる番号が付けられます ",
+            "filename": "../../access-review/access-review_ja.md"
+        },
+        {
+            "title": "演習12: OCI IAMのポリシー・レビューの実行",
+            "description": "導入後のラボには、Labから始まる番号が付けられます ",
+            "filename": "../../create-policy-reviews/create-policy-review_ja.md"
+        },
+        {
+            "title": "演習13: Access Governanceサービス・インスタンスのクリーンアップ",
+            "filename": "../../aginstance-cleanup/aginstance-cleanup_ja.md"
+        },
+        {
+            "title": "演習14: 環境クリーンアップ",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cleanup-stack/cleanup-stack_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        },
+        { 
+            "title": "Oracle CloudWorld 2023 - サポート", 
+            "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md" 
+        } 
+    ]
+}
