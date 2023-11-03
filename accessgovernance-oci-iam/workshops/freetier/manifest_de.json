@@ -1,0 +1,64 @@
+{
+    "workshoptitle": "Oracle Access Governance mit OCI IAM",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Compartment und Identitätsdomain erstellen",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "../../create-identity-domain/create-identity-domain_de.md"
+        },
+        {
+            "title": "Übung 2: Access Governance-Gruppen und -Policys erstellen",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "../../create-ag-group-policies/create-ag-group-policies_de.md"
+        },
+        {
+            "title": "Übung 3: OCI-Policys, -Gruppen, -Compartments und OCI-IAM-Benutzer erstellen ",
+            "filename": "../../create-oci-resource/create-oci-resource_de.md"
+        },
+        {
+            "title": "Übung 4: Oracle Access Governance-Serviceinstanz einrichten und konfigurieren",
+            "description": "Oracle Access Governance-Serviceinstanz einrichten und konfigurieren ",
+            "filename": "../../instance-setup/ag-instance-setup_de.md"
+        },
+        {
+            "title": "Übung 5: Oracle Access Governance mit OCI IAM integrieren",
+            "filename": "../../connect-oci-iam/connect-oci-iam_de.md"
+        },
+        {
+            "title": "Übung 6: Identitäten markieren",
+            "filename": "../../mark-identities/mark-identities_de.md"
+        },
+        {
+            "title": "Übung 7: Prüfen, wer Zugriff auf was hat",
+            "filename": "../../who-has-access-towhat/who-has-access-towhat_de.md"
+        },
+        {
+            "title": "Übung 8: Policy-Prüfungskampagnen erstellen",
+            "filename": "../../create-policy-reviews/create-policy-review_de.md"
+        },
+        {
+            "title": "Übung 9: Aufgaben zur Richtlinienprüfung ausführen",
+            "filename": "../../perform-policy-review/perform-policy-review_de.md"
+        },
+        {
+            "title": "Übung 10: Instanz des Access Governance-Service bereinigen",
+            "filename": "../../aginstance-cleanup/aginstance-cleanup_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
