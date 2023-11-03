@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "DBセキュリティ- Transparent Data Encryption(TDE)による拡張圧縮",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "このワークショップのアーキテクチャとその実行内容の理解",
+      "publisheddate": "06/09/2023",
+      "filename": "../../aso-aco/aco/introduction/intro-aso-aco_ja.md"
+    },
+    {
+      "title": "開始",
+      "description": "コンピュート・インスタンスの設定の確認",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "すべてのワークショップ・コンポーネントを初期化および開始する方法",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_ja.md"
+    },
+    {
+      "title": "演習2: サンプル・スキーマの設定",
+      "description": "スキーマの設定",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/setup/setup_ja.md"
+    },
+    {
+      "title": "演習3: Transparent Data Encryption (TDE)",
+      "description": "Oracle Transparent Data Encryption (TDE)を利用した新しい暗号化表領域の作成",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/tde/tde_ja.md"
+    },
+    {
+      "title": "演習4: 暗号化された表領域への拡張圧縮およびオンライン再定義の有効化",
+      "description": "オンライン再定義による暗号化された表領域へのオンライン圧縮",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/aco_row_index/aco_row_index_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+  ]
+}
