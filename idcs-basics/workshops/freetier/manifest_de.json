@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Einführungsworkshop zu Oracle Identity Cloud Service",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Einführung",
+            "description": "Die Einführung ist immer an zweiter Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Übung 1: Benutzerverwaltung",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+            "filename": "../../usermanagement/usermanagement_de.md"
+        },
+        {
+            "title": "Übung 2: SSO und Provisioning konfigurieren (Salesforce)",
+            "filename": "../../sso/sso_de.md"
+        },
+        {
+            "title": "Übung 3: Föderation konfigurieren - Social-Identitätsprovider (Google)",
+            "filename": "../../socialidp/socialidp_de.md"
+        },
+        {
+            "title": "Übung 4: Federation konfigurieren - Externer Identitätsprovider (Okta)",
+            "filename": "../../samlidp/samlidp_de.md"
+        },
+        {
+            "title": "Übung 5: Bedingte MFA in IDCS aktivieren",
+            "filename": "../../mfa/mfa_de.md"
+        },
+        {
+            "title": "Übung 6: Adaptive MFA in IDCS aktivieren",
+            "filename": "../../adaptive/adaptive_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
