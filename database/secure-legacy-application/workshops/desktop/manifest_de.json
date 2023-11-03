@@ -1,0 +1,56 @@
+{
+   "workshoptitle": "LiveLabs",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+   {
+      "title": "Einführung",
+      "description": "",
+      "filename": "../../introduction/introduction_de.md"
+   },
+   {
+      "title": "Erste Schritte",
+      "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_de.md"
+   },
+   {
+      "title": "Übung 1: Autonomous Database-Instanz konfigurieren",
+      "description": "",
+      "filename": "../../configure-adb-instance/configure-adb-instance_de.md"
+   },
+   {
+      "title": "Übung 2: Verbindung zur Legacy-Anwendung Glassfish HR herstellen",
+      "description": "",
+      "filename": "../../connect-legacy-application/connect-legacy-application_de.md"
+   },
+   {
+      "title": "Lab 3: Laden und Überprüfen der Daten in der Glassfish-Anwendung",
+      "description": "",
+      "filename": "../../load-verify-data/load-verify-data_de.md"
+   },
+   {
+      "title": "Übung 4: Database Vault aktivieren und HR-Anwendung prüfen",
+      "description": "",
+      "filename": "../../enable-dv-verify/enable-dv-verify_de.md"
+   },
+   {
+      "title": "Übung 5: Verbindungen zum Schema EMPLOYEESEARCH_PROD identifizieren",
+      "description": "",
+      "filename": "../../identify-schema-connections/identify-schema-connections_de.md"
+   },
+   {
+      "title": "Übung 6: Funktionen der Glassfish HR-Anwendung mit aktiviertem Database Vault erkunden",
+      "description": "",
+      "filename": "../../explore-app-with-dv-enabled/explore-app-with-dv-enabled_de.md"
+   },
+   {
+      "title": "Übung 7: Setzen Sie Ihre Umgebung zurück",
+      "description": "",
+      "filename": "../../reset-your-environment/reset-your-environment_de.md"
+   },
+   {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+   }
+]
+}
