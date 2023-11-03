@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "DB-Sicherheit - Erweiterte Komprimierung mit transparenter Datenverschlüsselung (TDE)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+      "publisheddate": "09/01/2020",
+      "filename": "../../aso-aco/aco/introduction/intro-aso-aco_de.md"
+    },
+    {
+      "title": "Erste Schritte mit noVNC Remote Desktop",
+      "description": "Verwenden von noVNC Remotedesktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+    {
+      "title": "Übung 2: Beispielschema einrichten",
+      "description": "Schema einrichten",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/setup/setup_de.md"
+    },
+    {
+      "title": "Übung 3: Transparent Data Encryption (TDE)",
+      "description": "Neuen verschlüsselten Tablespace erstellen, der Oracle Transparent Data Encryption (TDE) nutzt",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/tde/tde_de.md"
+    },
+    {
+      "title": "Übung 4: Erweiterte Komprimierung und Online-Neudefinition in verschlüsselten Tablespace aktivieren",
+      "description": "Online-Komprimierung in verschlüsselten Tablespace über Online-Neudefinition",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/aco_row_index/aco_row_index_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+  ]
+}
