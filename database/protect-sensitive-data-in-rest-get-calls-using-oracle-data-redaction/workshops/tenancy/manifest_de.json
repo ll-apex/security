@@ -1,0 +1,41 @@
+{
+   "workshoptitle": "Schutz sensibler Daten in REST-GET-Aufrufen mit Oracle Data Redaction",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+      {
+         "title": "Einführung",
+         "description": "",
+         "filename": "../../introduction/introduction_de.md"
+      },
+      {
+         "title": "Erste Schritte",
+         "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+         "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_de.md"
+      },
+      {
+         "title": "Übung 1: Autonomous Database-Umgebung konfigurieren",
+         "description": "",
+         "filename": "../../create-schemas-load-data/create-schemas-load-data_de.md"
+      },
+      {
+         "title": "Übung 2: Verdeckung verwenden, um alle REST-Get-Aufrufe und -Abfragen zu anonymisieren",
+         "description": "",
+         "filename": "../../use-redaction-anonymize-all-restcalls-and-queries/use-redaction-anonymize-all-restcalls-and-queries_de.md"
+      },
+      {
+         "title": "Übung 3: Nur REST-Get-Aufrufe mit \"Verdeckung\" anonymisieren",
+         "description": "",
+         "filename": "../../use-redaction-to-anonymize-only-restcalls/use-redaction-to-anonymize-only-restcalls_de.md"
+      },
+      {
+         "title": "Übung 4: Setzen Sie Ihre Umgebung zurück",
+         "description": "",
+         "filename": "../../reset-your-environment/reset-your-environment_de.md"
+      },
+      {
+         "title": "Brauchen Sie Hilfe?",
+         "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+         "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+      }
+   ]
+   }
