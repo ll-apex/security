@@ -1,0 +1,44 @@
+{
+    "workshoptitle": "Uso de la solución OCI Network Firewall en Oracle Cloud Infrastructure",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../intro/intro_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 0: Despliegue de Network Firewall con Oracle Resource Manager",
+            "filename": "../../common/orm-deploy_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Configuración de componentes de Oracle Cloud Infrastructure",
+            "filename": "../../common/oci-config_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Despliegue de Network Firewall y configuración necesaria",
+            "filename": "../../network-firewall/deploy-network-firewall_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Configuración de la política de Network Firewall",
+            "filename": "../../network-firewall/config-network-firewall_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Validación de tráfico de Network Firewall y características de seguridad",
+            "filename": "../../network-firewall/traffic-validation_es.md"
+        },
+        {
+            "title": "Laboratorio 5: entorno de desmontaje",
+            "filename": "../../common/tear-down_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
