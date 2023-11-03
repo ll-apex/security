@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "Actualización de un salto de Oracle Identity Governance (OIG)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "En este laboratorio se ofrece una visión general de este taller.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Los laboratorios que siguen a la introducción están numerados, empezando por el laboratorio 1",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Requisitos Previos a la Actualización",
+      "filename": "../../pre-upgrade/pre-upgrade_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Actualización de un salto",
+      "filename": "../../upgrade/upgrade_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Tareas posteriores a la actualización",
+      "filename": "../../post-upgrade/post-upgrade_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
