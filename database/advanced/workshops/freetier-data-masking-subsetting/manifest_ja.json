@@ -1,0 +1,47 @@
+{
+  "workshoptitle": "DBセキュリティ・データのマスキングとサブセッティング",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "このワークショップのアーキテクチャとその実行内容の理解",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-data-masking-subsetting_ja.md"
+    },
+    {
+      "title": "スタート・ガイド",
+      "description": "無料トライアルはこちら",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+    },
+    {
+      "title": "演習1: 設定の準備",
+      "description": "ORMスタックをダウンロードし、既存のVCNのセキュリティ・ルールを更新する方法",
+      "publisheddate": "09/28/2020",
+      "filename": "../../../common/prepare-setup/prepare-setup_ja.md",
+      "type": "data-masking-subsetting"
+    },
+    {
+      "title": "演習2: 環境設定",
+      "description": "ワークショップ環境をプロビジョニングして接続する方法",
+      "publisheddate": "06/30/2020",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ja.md"
+    },
+    {
+      "title": "演習3: 環境の初期化",
+      "description": "すべてのワークショップ・コンポーネントを初期化および開始する方法",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_ja.md"
+    },
+    {
+      "title": "演習4: データ・マスキングおよびサブセット化(DMS)",
+      "description": "このラボでは、Oracle Data Masking and Subsetting (DMS)の活用方法を確認できます",
+      "publisheddate": "10/20/2020",
+      "filename": "../../data-masking-subsetting/data-masking-subsetting_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+    }
+  ]
+}
