@@ -1,0 +1,30 @@
+{
+  "workshoptitle": "Taller de actualización in situ de Oracle IAM 11.1.2.3 a 12.2.1.4",
+  "help": "livelabs-help-iam_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción siempre es la segunda para LiveLabs. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Actualización de Oracle IAM 11.1.2.3 a Oracle IAM 12.2.1.4",
+      "filename": "../../upgrade/upgradelcm_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
