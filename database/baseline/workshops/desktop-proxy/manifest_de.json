@@ -1,0 +1,40 @@
+{
+   "workshoptitle": "Wie Entwickler die Oracle Database-Proxyauthentifizierung verwenden können",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+     {
+       "title": "Einführung",
+       "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+       "publisheddate": "09/01/2020",
+       "filename": "../../proxy/introduction/introduction_de.md"
+     },
+     {
+      "title": "Erste Schritte mit noVNC Remote Desktop",
+      "description": "Verwenden von noVNC Remotedesktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+     {
+       "title": "Übung 2: Umgebungssetup",
+       "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+       "publisheddate": "06/30/2020",
+       "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+     },
+     {
+       "title": "Übung 3: Wie Entwickler die Oracle Database-Proxyauthentifizierung verwenden können",
+       "description": "In diesem Workshop wird die Funktionalität der Proxyauthentifizierung in der Oracle-Datenbank vorgestellt.",
+       "publisheddate": "10/20/2020",
+       "filename": "../../proxy/proxy-livelab/proxy_de.md"
+     },
+     {
+       "title": "Brauchen Sie Hilfe?",
+       "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+       "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+     }
+   ]
+ }
