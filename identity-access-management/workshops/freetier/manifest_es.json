@@ -1,0 +1,32 @@
+{
+    "workshoptitle": "Laboratorio de gestión de identidad y acceso",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "./../../intro/intro_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título del laboratorio y el título del menú Contents (el título anterior) coinciden con el laboratorio Prerequisite. Este laboratorio es siempre el segundo.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Requisitos de IAM",
+            "filename": "./../../prerequisites/iam_es.md"
+        },
+        {
+            "title": "Laboratorio 1: IAM sin dominios de identidad",
+            "filename": "./../../iam/identity-access-management_es.md"
+        },
+        {
+            "title": "Laboratorio 2: IAM con dominios de identidad",
+            "filename": "./../../iam/identity-access-management-identy-domain_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+        }
+    ]
+}
