@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "KubernetesコンテナでIAM Suiteを使い始める",
+  "help": "livelabs-help-license_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "はじめに LiveLabsの場合は常に2番目です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップの開始",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "導入に続くラボには、演習1から番号が付けられます。",
+      "filename": "../../initialize-environment/initialize-environment_ja.md"
+    },
+    {
+      "title": "演習2: Oracle Identity Governance(OIG)ドメインのデプロイ",
+      "filename": "../../oig/oig_ja.md"
+    },
+    {
+      "title": "演習3: Oracle Access Manager(OAM)ドメインのデプロイ",
+      "filename": "../../oam/oam_ja.md"
+    },
+    {
+      "title": "演習4: Oracle Unified Directory(OUD)のデプロイ",
+      "filename": "../../oud/oud_ja.md"
+    },
+    {
+      "title": "Oracle CloudWorld 2022 - ヘルプの入手",
+      "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+    }
+
+  ]
+}
