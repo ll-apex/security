@@ -1,0 +1,57 @@
+{
+    "workshoptitle": "Introducción a Oracle Database 21c Security",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../introduction/intro-security_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de claves SSH",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por el laboratorio 1",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Creación de una base de datos de máquina virtual de DBCS",
+            "filename": "https://raw.githubusercontent.com/oracle-livelabs/database/main/db-21c-fundamentals/create-oci-vm-db/create-oci-vm-db/create-oci-vm-db-vcn_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Configuración de 21C",
+            "filename": "../../setup/setup_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Gestión de tablas y filas de blockchain",
+            "filename": "../../blockchain-table/blockchain-table_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Definición del algoritmo de cifrado de tablespace",
+            "filename": "../../tbsp-encryption/tbsp-encryption_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Uso de dominios para evitar que los usuarios locales bloqueen operaciones comunes",
+            "filename": "../../realms/realms_es.md"
+        },
+        {
+            "title": "Laboratorio 7: Autenticación y administración",
+            "filename": "../../introduction/intro-admin_es.md"
+        },
+        {
+            "title": "Laboratorio 8: Forzar sensibilidad a mayúsculas/minúsculas del archivo de contraseñas actualizado",
+            "filename": "../../upgraded-pwd/upgraded-pwd_es.md"
+        },
+        {
+            "title": "Laboratorio 9: Aplicación de la longitud de la contraseña",
+            "filename": "../../enforce-min-pwd/enforce-min-pwd_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
