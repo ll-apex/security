@@ -1,0 +1,58 @@
+{
+  "workshoptitle": "Oracle Data Safe in Anwendungen und Services integrieren",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Diese Übung enthält Informationen zum Oracle Data Safe-Workshop.",
+      "filename": "../../introduction/introduction-integration_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Erstellen Sie bei Bedarf einen Oracle Cloud-Account, und melden Sie sich an.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Umgebung vorbereiten",
+      "description": "Voraussetzungen für die Ausführung des Oracle Data Safe-Workshops in Ihrem eigenen Mandanten.",
+      "filename": "../../prepare-environment/prepare-environment_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Übung 1: Autonomous Database bei Oracle Data Safe registrieren",
+      "description": "In dieser Übung wird gezeigt, wie Sie ein Autonomous Data Warehouse auf einer gemeinsam verwendeten Exadata-Infrastruktur bei Oracle Data Safe registrieren und Beispieldaten darin laden.",
+      "filename": "../../register-autonomous-database/register-autonomous-database_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Übung 2: Die neueste Sicherheitsbewertung mit der Oracle Data Safe-CLI herunterladen",
+      "description": "In dieser Übung wird gezeigt, wie Sie mit der Oracle Data Safe-CLI einen Sicherheitsbewertungsbericht herunterladen.",
+      "filename": "../../cli/cli_de.md",
+      "type": "freetier"
+    },{
+      "title": "Übung 3: Auditdaten mit der Oracle Data Safe-REST-API in den Objektspeicher kopieren",
+      "description": "In dieser Übung wird gezeigt, wie Sie mit der Oracle Data Safe-REST-API Auditdaten in den Objektspeicher kopieren.",
+      "filename": "../../api-copy-audit-data/api-copy-audit-data_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Übung 4: Kopieren von Auditdaten in den Objektspeicher mit der Oracle Data Safe-REST-API planen",
+      "description": "In dieser Übung wird gezeigt, wie Sie das Kopieren von Auditdaten in den Objektspeicher mit der REST-API von Oracle Data Safe planen.",
+      "filename": "../../api-schedule-audit-data-copy/api-schedule-audit-data-copy_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Übung 5: Lassen Sie sich über Sicherheitsabweichungen bei Ihren Zieldatenbanken benachrichtigen, indem Sie Oracle Data Safe-Ereignisse einrichten",
+      "description": "In dieser Übung wird gezeigt, wie Sie Ereignisse in Oracle Cloud Infrastructure für Oracle Data Safe-Ereignisse einrichten.",
+      "filename": "../../events/events_de.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+  ]
+}
