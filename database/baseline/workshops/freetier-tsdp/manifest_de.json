@@ -1,0 +1,47 @@
+{
+  "workshoptitle": "DB-Sicherheit - Native Netzwerkverschlüsselung",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-dbsat_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Kostenlos testen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+    {
+      "title": "Übung 1: Setup vorbereiten",
+      "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+      "publisheddate": "09/28/2020",
+      "filename": "../../../common/prepare-setup/prepare-setup_de.md",
+      "type": "tsdp"
+    },
+    {
+      "title": "Übung 2: Umgebungssetup",
+      "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+      "publisheddate": "06/30/2020",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+    },
+    {
+      "title": "Übung 3: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+    {
+      "title": "Lab 4: Transparenter Schutz sensibler Daten (TSDP)",
+      "description": "In dieser Übung lernen Sie, wie Sie Oracle Transparent Sensitive Data Protection (TSDP) nutzen",
+      "publisheddate": "04/14/2021",
+      "filename": "../../tsdp/tsdp_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+  ]
+}
