@@ -1,0 +1,38 @@
+{
+    "workshoptitle": "  Prescriptive und Insight-gesteuerte Zugriffsprüfungen mit Oracle Access Governance",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Zugriffsprüfungskampagne erstellen",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+            "filename": "../../create-campaign/create-campaign_de.md"
+        },
+        {
+            "title": "Übung 2: Prüfen, wer Zugriff auf was hat",
+            "filename": "../../review-who-has-access/review-who-has-access_de.md"
+        },
+        {
+            "title": "Übung 3: Zugriffsprüfung ausführen",
+            "filename": "../../perform-access-review/perform-access-review_de.md"
+        },
+        {
+            "title": "Übung 4: Zugriffsprüfungskampagnen verwalten",
+            "filename": "../../manage-campaign/manage-campaign_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
