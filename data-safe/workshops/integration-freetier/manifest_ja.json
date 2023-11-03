@@ -1,0 +1,58 @@
+{
+  "workshoptitle": "Oracle Data Safeとアプリケーションおよびサービスとの統合",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "このラボでは、Oracle Data Safeワークショップについて説明します。",
+      "filename": "../../introduction/introduction-integration_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "開始",
+      "description": "必要に応じてOracle Cloudアカウントを取得し、サインインします。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "環境の準備",
+      "description": "独自のテナンシでOracle Data Safeワークショップを実行するための前提条件。",
+      "filename": "../../prepare-environment/prepare-environment_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "演習1: Autonomous DatabaseのOracle Data Safeへの登録",
+      "description": "このラボでは、共有Exadataインフラストラクチャ上のAutonomous Data WarehouseをOracle Data Safeに登録し、サンプル・データをロードする方法を示します。",
+      "filename": "../../register-autonomous-database/register-autonomous-database_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "演習2: Oracle Data Safe CLIを使用した最新のセキュリティ評価のダウンロード",
+      "description": "このラボでは、Oracle Data Safe CLIを使用してセキュリティ評価レポートをダウンロードする方法について説明します。",
+      "filename": "../../cli/cli_ja.md",
+      "type": "freetier"
+    },{
+      "title": "演習3: Oracle Data Safe REST APIを使用したオブジェクト・ストレージへの監査データのコピー",
+      "description": "このラボでは、Oracle Data Safe REST APIを使用して監査データをオブジェクト・ストレージにコピーする方法を示します。",
+      "filename": "../../api-copy-audit-data/api-copy-audit-data_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "演習4: Oracle Data Safe REST APIを使用したオブジェクト・ストレージへの監査データのコピーのスケジュール",
+      "description": "このラボでは、Oracle Data Safe REST APIを使用して、監査データのオブジェクト・ストレージへのコピーをスケジュールする方法を示します。",
+      "filename": "../../api-schedule-audit-data-copy/api-schedule-audit-data-copy_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "演習5: Oracle Data Safeイベントを設定して、ターゲット・データベースのセキュリティ・ドリフトに関する通知を取得します",
+      "description": "このラボでは、Oracle Cloud Infrastructure for Oracle Data Safeイベントでのイベントの設定方法について説明します。",
+      "filename": "../../events/events_ja.md",
+      "type": "freetier"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+    }
+  ]
+}
