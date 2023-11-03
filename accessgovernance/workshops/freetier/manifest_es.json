@@ -1,0 +1,38 @@
+{
+    "workshoptitle": "  Revisiones de acceso prescriptivas y basadas en estadísticas con Oracle Access Governance",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "La introducción es siempre lo primero. El título y el título del menú de contenido coinciden con la introducción.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de campaña de revisión de acceso",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por el laboratorio 1",
+            "filename": "../../create-campaign/create-campaign_es.md"
+        },
+        {
+            "title": "Laboratorio 2: revisión de quién tiene acceso a qué",
+            "filename": "../../review-who-has-access/review-who-has-access_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Realización de revisión de acceso",
+            "filename": "../../perform-access-review/perform-access-review_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Gestionar campañas de revisión de acceso",
+            "filename": "../../manage-campaign/manage-campaign_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
