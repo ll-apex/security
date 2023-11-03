@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "Database Vaultを使用したAutonomous Databasesでの不正なデータ・アクセスの防止",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+  {
+    "title": "概要",
+    "description": "このワークショップのアーキテクチャとその実行内容の理解",
+    "publisheddate": "09/01/2021",
+    "filename": "../../intro/intro_ja.md"
+  },
+  {
+    "title": "開始",
+    "description": "無料トライアルはこちら",
+    "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+  },
+  {
+    "title": "環境の準備",
+    "description": "自社のテナンシのAutonomous DBでOracle DB Securityワークショップを実行するための前提条件",
+    "publisheddate": "09/01/2021",
+    "filename": "../../prepare-setup/prepare-setup_ja.md"
+  },
+  {
+    "title": "演習1: Database Vault(DV)",
+    "description": "このラボでは、Autonomous DBでOracle Database Vaultを活用する方法を確認できます",
+    "publisheddate": "09/01/2021",
+    "filename": "../../dbvault/dbvault_ja.md"
+  },
+  {
+    "title": "Oracle Autonomous Databaseの終了",
+    "description": "使用可能なまたは停止されたOracle Autonomous Databaseインスタンスの終了",
+    "filename":"https://oracle-livelabs.github.io/common/labs/terminate-adb/terminate-adb_ja.md"
+  },
+  {
+    "title": "サポートが必要ですか。",
+    "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+    "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+  }
+]
+}
