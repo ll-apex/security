@@ -1,0 +1,65 @@
+{
+    "workshoptitle": "Oracle Data Safe基礎の開始",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "概要",
+        "description": "このラボでは、Oracle Data Safeワークショップについて説明します。",
+        "filename": "../../introduction/introduction_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "環境の準備",
+        "description": "独自のテナンシでOracle Data Safeワークショップを実行するための前提条件。",
+        "filename": "../../prepare-environment/prepare-environment_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習1: Autonomous DatabaseのOracle Data Safeへの登録",
+        "description": "このラボでは、共有Exadataインフラストラクチャ上のAutonomous Data WarehouseをOracle Data Safeに登録し、サンプル・データをロードする方法を示します。",
+        "filename": "../../register-autonomous-database/register-autonomous-database_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習2: データベース・アクティビティの監査",
+        "description": "このラボでは、Oracle Data Safeで監査ポリシーをプロビジョニングする方法を示します。",
+        "filename": "../../audit-database-activity/audit-database-activity_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習3: アラートの生成",
+        "description": "このラボでは、Oracle Data Safeでアラート・ポリシーをプロビジョニングする方法について説明します。",
+        "filename": "../../generate-alerts/generate-alerts_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習4: データベース構成の評価",
+        "description": "このラボでは、Oracle Data Safeのセキュリティ評価機能を使用して、Autonomous Databaseのデータベース構成を評価する方法を示します。",
+        "filename": "../../assess-database-configurations/assess-database-configurations_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習5: データベース・ユーザーの評価",
+        "description": "このラボでは、Oracle Data Safeのユーザー評価機能を使用してAutonomous Databaseのデータベース・ユーザーを評価する方法を示します。",
+        "filename": "../../assess-database-users/assess-database-users_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習6: Discover機密データ",
+        "description": "このラボでは、Oracle Data Safeのデータ検出機能を使用してターゲット・データベースの機密データを検出する方法を示します。",
+        "filename": "../../discover-sensitive-data/discover-sensitive-data_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "演習7: 機密データのマスク",
+        "description": "このラボでは、Oracle Data Safeのデータ・マスキング機能を使用してターゲット・データベースの機密データをマスクする方法について説明します。",
+        "filename": "../../mask-sensitive-data/mask-sensitive-data_ja.md",
+        "type": "livelabs"
+      },
+      {
+        "title": "サポートが必要ですか。",
+        "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+        "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+      }
+    ]
+  }
