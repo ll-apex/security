@@ -1,0 +1,34 @@
+{
+  "workshoptitle": "DB-Sicherheit - Database Vault",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-database-vault_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebungssetup",
+      "description": "Setup der Compute-Instanz prüfen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+    {
+      "title": "Übung 3: Database Vault (DV)",
+      "description": "In dieser Übung erfahren Sie, wie Sie Oracle Database Vault (DV) nutzen können.",
+      "publisheddate": "10/20/2020",
+      "filename": "../../database-vault/database-vault_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+  ]
+}
