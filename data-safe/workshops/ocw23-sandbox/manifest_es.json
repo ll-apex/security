@@ -1,0 +1,58 @@
+{
+    "workshoptitle": "Conviértase en un superhéroe de seguridad de datos en solo 90 minutos con Oracle Data Safe",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Introducción",
+        "description": "En este laboratorio se proporciona información sobre el taller.",
+        "filename": "../../introduction/introduction-ocw_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Introducción",
+        "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título del laboratorio y el título del menú Contents (el título anterior) coinciden con el laboratorio Prerequisite. Este laboratorio es siempre el segundo.",
+        "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Preparación del Entorno",
+        "description": "Requisitos para ejecutar el taller en el sandbox LiveLabs.",
+        "filename": "../../prepare-environment/prepare-environment-ocw-sandbox_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Laboratorio 1: Registro de una instancia de Autonomous Database con Oracle Data Safe",
+        "description": "En este laboratorio se muestra cómo registrar una instancia de Autonomous Data Warehouse en una infraestructura de Exadata compartida con Oracle Data Safe y cargar datos de muestra en ella.",
+        "filename": "../../register-autonomous-database/register-autonomous-database-ocw_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Laboratorio 2: Evaluación de configuraciones de base de datos",
+        "description": "En este laboratorio se muestra cómo evaluar las configuraciones de base de datos en Autonomous Database con la función Evaluación de seguridad de Oracle Data Safe.",
+        "filename": "../../assess-database-configurations/assess-database-configurations-ocw_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Laboratorio 3: Evaluación de usuarios de base de datos",
+        "description": "En este laboratorio se muestra cómo evaluar los usuarios de base de datos en Autonomous Database mediante la función Evaluación de usuario de Oracle Data Safe.",
+        "filename": "../../assess-database-users/assess-database-users-ocw_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Laboratorio 4: Detección de datos confidenciales",
+        "description": "En este laboratorio se muestra cómo detectar datos confidenciales en la base de datos de destino mediante la función Detección de datos de Oracle Data Safe.",
+        "filename": "../../discover-sensitive-data/discover-sensitive-data-ocw_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Laboratorio 5: Enmascaramiento de datos confidenciales",
+        "description": "En este laboratorio se muestra cómo enmascarar datos confidenciales en la base de datos de destino mediante la función Enmascaramiento de datos de Oracle Data Safe.",
+        "filename": "../../mask-sensitive-data/mask-sensitive-data-ocw_es.md",
+        "type": "ocw-livelabs"
+      },
+      {
+        "title": "Oracle CloudWorld 2023 - Obtener ayuda",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_es.md"
+        }
+    ]
+  }
