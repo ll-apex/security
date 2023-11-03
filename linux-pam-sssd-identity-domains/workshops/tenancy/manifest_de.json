@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "Mit OCI IAM-Identitätsdomains bei Linux-Server authentifizieren",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Setup vorbereiten",
+            "description": "So laden Sie Ihre ORM-Stacks herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+            "filename": "../../prepare-setup/prepare-setup_de.md"
+        },
+        {
+            "title": "Übung 2: ORM-Stack bereitstellen, um einen Linux-Server und eine Identitätsdomain zu erstellen",
+            "description": "So stellen Sie die Ressourcen mit dem Stack bereit",
+            "filename": "../../deploy/deploy_de.md"
+        },
+        {
+            "title": "Übung 3: Vertrauliche Anwendung in OCI IAM erstellen",
+            "description": "Übungen zur Erstellung einer vertraulichen Anwendung in OCI IAM zum Aufrufen der REST-APIs im Konfigurationsstack",
+            "filename": "../../create-confidential-app/create-confidential-app_de.md"
+        },
+        {
+            "title": "Übung 4: ORM-Stack zur Konfiguration des Linux-PAM-Moduls und der Identitätsdomain bereitstellen",
+            "description": "Übungen zur Konfiguration des Linux-PAM-Moduls und der Identitätsdomain",
+            "filename": "../../configure/configure_de.md"
+        },
+        {
+            "title": "Übung 5: SSO-Policy zur Einführung von MFA erstellen",
+            "description": "Übungen, mit denen eine SSO-Policy erstellt wird, um MFA in der Regel hinzuzufügen und die vertrauliche App zuzuweisen",
+            "filename": "../../add-sso-policy/add-sso-policy_de.md"
+        },
+        {
+            "title": "Übung 6: Authentifizierungsablauf validieren ",
+            "description": "Übungen zur Validierung des Authentifizierungsablaufs",
+            "filename": "../../validate/validate_de.md"
+        },
+        {
+            "title": "Übung 7: Umgebungsbereinigung",
+            "description": "Übungen, die helfen, die verwendeten Ressourcen zu bereinigen",
+            "filename": "../../cleanup/destroy_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
