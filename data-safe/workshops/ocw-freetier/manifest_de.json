@@ -1,0 +1,58 @@
+{
+    "workshoptitle": "Sperren Sie Risiken mit Oracle Data Safe",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+      {
+        "title": "Einführung",
+        "description": "Diese Übung enthält Informationen zum Workshop.",
+        "filename": "../../introduction/introduction-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Umgebung vorbereiten",
+        "description": "Voraussetzungen für die Ausführung des Workshops in Ihrem eigenen Mandanten.",
+        "filename": "../../prepare-environment/prepare-environment-ocw-freetier_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Übung 1: Autonomous Database bei Oracle Data Safe registrieren",
+        "description": "In dieser Übung wird gezeigt, wie Sie ein Autonomous Data Warehouse auf einer gemeinsam verwendeten Exadata-Infrastruktur bei Oracle Data Safe registrieren und Beispieldaten darin laden.",
+        "filename": "../../register-autonomous-database/register-autonomous-database-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Übung 2: Datenbankkonfigurationen bewerten",
+        "description": "In dieser Übung wird gezeigt, wie Sie Datenbankkonfigurationen in Autonomous Database mit dem Feature \"Sicherheitsbewertung\" in Oracle Data Safe bewerten.",
+        "filename": "../../assess-database-configurations/assess-database-configurations-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Übung 3: Datenbankbenutzer bewerten",
+        "description": "In dieser Übung wird gezeigt, wie Sie Datenbankbenutzer in Autonomous Database mit dem Feature \"Benutzerbewertung\" in Oracle Data Safe bewerten.",
+        "filename": "../../assess-database-users/assess-database-users-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Übung 4: Sensible Daten ermitteln",
+        "description": "In dieser Übung wird gezeigt, wie sensible Daten in der Zieldatenbank mit dem Daten-Discovery-Feature in Oracle Data Safe erkannt werden.",
+        "filename": "../../discover-sensitive-data/discover-sensitive-data-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Übung 5: Sensible Daten maskieren",
+        "description": "In dieser Übung wird gezeigt, wie Sie sensible Daten in der Zieldatenbank mit der Datenmaskierungsfunktion in Oracle Data Safe maskieren.",
+        "filename": "../../mask-sensitive-data/mask-sensitive-data-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Übung 6: Umgebung bereinigen",
+        "description": "In dieser Übung erfahren Sie, wie Sie die Oracle Cloud Infrastructure-Umgebung nach Abschluss dieses Workshops bereinigen.",
+        "filename": "../../clean-up-environment/clean-up-environment-ocw_de.md",
+        "type": "ocw-freetier"
+      },
+      {
+        "title": "Oracle CloudWorld 2023 - Hilfe anfordern",
+        "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_de.md"
+        }
+    ]
+  }
