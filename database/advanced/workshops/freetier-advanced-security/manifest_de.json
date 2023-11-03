@@ -1,0 +1,53 @@
+{
+  "workshoptitle": "DB-Sicherheit - Erweiterte Sicherheitsoptionen",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-advanced-security_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Kostenlos testen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+    {
+      "title": "Übung 1: Setup vorbereiten",
+      "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+      "publisheddate": "09/28/2020",
+      "filename": "../../../common/prepare-setup/prepare-setup_de.md",
+      "type": "aso"
+    },
+    {
+      "title": "Übung 2: Umgebungssetup",
+      "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+      "publisheddate": "06/30/2020",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+    },
+    {
+      "title": "Übung 3: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+    {
+      "title": "Übung 4: Transparent Data Encryption (TDE)",
+      "description": "In dieser Übung lernen Sie, wie Sie Oracle Transparent Data Encryption (TDE) nutzen.",
+      "publisheddate": "10/20/2020",
+      "filename": "../../advanced-security/tde/tde_de.md"
+    },
+    {
+      "title": "Übung 5: Datenverdeckung",
+      "description": "In dieser Übung erfahren Sie, wie Sie Oracle Data Redaction nutzen können",
+      "publisheddate": "10/20/2020",
+      "filename": "../../advanced-security/data-redaction/data-redaction_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+  ]
+}
