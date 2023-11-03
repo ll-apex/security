@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "Erste Schritte mit IAM Suite auf Kubernetes-Containern",
+  "help": "livelabs-help-license_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Die Einführung ist für LiveLabs immer an zweiter Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebungssetup",
+      "description": "Setup der Compute-Instanz prüfen",
+      "filename": "../../verify-compute/verify-compute-ssh-and-novnc-updated_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebung initialisieren",
+      "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+      "filename": "../../initialize-environment/initialize-environment_de.md"
+    },
+    {
+      "title": "Übung 3: Oracle Identity Governance-(OIG-)Domain bereitstellen",
+      "filename": "../../oig/oig_de.md"
+    },
+    {
+      "title": "Übung 4: Oracle Access Manager-(OAM-)Domain bereitstellen",
+      "filename": "../../oam/oam_de.md"
+    },
+    {
+      "title": "Übung 5: Oracle Unified Directory (OUD) bereitstellen",
+      "filename": "../../oud/oud_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+  ]
+}
