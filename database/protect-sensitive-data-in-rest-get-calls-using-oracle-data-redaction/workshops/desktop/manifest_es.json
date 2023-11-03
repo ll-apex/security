@@ -1,0 +1,41 @@
+{
+   "workshoptitle": "Proteja los datos confidenciales en llamadas GET de REST mediante la ocultación de datos de Oracle",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+   {
+      "title": "Introducción",
+      "description": "",
+      "filename": "../../introduction/introduction_es.md"
+   },
+   {
+      "title": "Introducción",
+      "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+   },
+   {
+      "title": "Laboratorio 1: Configuración del entorno de Autonomous Database",
+      "description": "",
+      "filename": "../../create-schemas-load-data/create-schemas-load-data_es.md"
+   },
+   {
+      "title": "Laboratorio 2: Utilizar la ocultación para anonimizar todas las llamadas y consultas REST Get",
+      "description": "",
+      "filename": "../../use-redaction-anonymize-all-restcalls-and-queries/use-redaction-anonymize-all-restcalls-and-queries_es.md"
+   },
+   {
+      "title": "Laboratorio 3: Utilizar la ocultación para anonimizar solo llamadas REST Get",
+      "description": "",
+      "filename": "../../use-redaction-to-anonymize-only-restcalls/use-redaction-to-anonymize-only-restcalls_es.md"
+   },
+   {
+      "title": "Laboratorio 4: Restablecimiento del entorno",
+      "description": "",
+      "filename": "../../reset-your-environment/reset-your-environment_es.md"
+   },
+   {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+   }
+]
+}
