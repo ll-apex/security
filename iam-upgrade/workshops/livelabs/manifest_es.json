@@ -1,0 +1,30 @@
+{
+  "workshoptitle": "Taller de actualización in situ de Oracle IAM 11.1.2.3 a 12.2.1.4",
+  "help": "livelabs-help-iam_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "Introducción",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Configuración del entorno",
+      "description": "Verificar configuración de instancia informática",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Inicialización del entorno",
+      "description": "Laboratorio para inicializar el entorno 11.1.2.3 de IAM",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Actualización de Oracle IAM 11.1.2.3 a Oracle IAM 12.2.1.4",
+      "filename": "../../upgrade/upgradelcm_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
