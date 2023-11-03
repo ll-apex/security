@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "OAS SSO mit OCI IAM-Identitätsdomains über App-Gateway",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Setup vorbereiten",
+            "description": "So laden Sie Ihre ORM-Stacks herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+            "filename": "../../prepare-setup/prepare-setup_de.md"
+        },
+        {
+            "title": "Übung 2: ORM-Stack zum Erstellen von OAS, App-Gateway und Identitätsdomain bereitstellen",
+            "description": "So stellen Sie die Ressourcen mit dem Stack bereit",
+            "filename": "../../deploy/deploy_de.md"
+        },
+        {
+            "title": "Übung 3: Vertrauliche Anwendung in OCI IAM erstellen",
+            "description": "Übungen zur Erstellung einer vertraulichen Anwendung in OCI IAM zum Aufrufen der REST-APIs im Konfigurationsstack",
+            "filename": "../../create-confidential-app/create-confidential-app_de.md"
+        },
+        {
+            "title": "Übung 4: ORM-Stack zur Konfiguration von OAS, App-Gateway und Identitätsdomain bereitstellen",
+            "description": "Übungen zur Konfiguration der Instanzen von OAS, App-Gateway und Identitätsdomains",
+            "filename": "../../configure/configure_de.md"
+        },
+        {
+            "title": "Übung 5: SSO-Ablauf validieren ",
+            "description": "Übungen zur Validierung des SSO-Flusses",
+            "filename": "../../validate/validate_de.md"
+        },
+        {
+            "title": "Übung 6: Umgebungsbereinigung",
+            "description": "Übungen, die helfen, die verwendeten Ressourcen zu bereinigen",
+            "filename": "../../cleanup/destroy_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
