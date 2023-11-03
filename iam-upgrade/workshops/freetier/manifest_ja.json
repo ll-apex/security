@@ -1,0 +1,37 @@
+{
+  "workshoptitle": "Oracle IAM 11.1.2.3から12.2.1.4へのインプレース・アップグレード・ワークショップ",
+  "help": "livelabs-help-iam_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "スタート・ガイド",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+    },
+    {
+      "title": "演習1: 設定の準備",
+      "filename": "../../prepare-setup/prepare-setup_ja.md"
+    },
+    {
+      "title": "演習2: 環境設定",
+      "description": "ワークショップ環境をプロビジョニングして接続する方法",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ja.md"
+    },
+    {
+      "title": "演習3: 環境の初期化",
+      "description": "IAM 11.1.2.3ベースライン環境を初期化するためのラボ",
+      "filename": "../../initialize-environment/initialize-environment_ja.md"
+    },
+    {
+      "title": "演習4: Oracle IAM 11.1.2.3の12.2.1.4へのアップグレード",
+      "filename": "../../upgrade/upgradelcm_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+    }
+  ]
+}
