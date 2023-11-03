@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "Taller de Oracle Identity Role Intelligence (OIRI)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "En este laboratorio se ofrece una visión general de este taller.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Configuración del entorno",
+      "description": "Verificar configuración de instancia informática",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-novnc_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Despliegue de cluster de Kubernetes e inicio del servidor de OIG",
+      "filename": "../../init-kub-nodes/init-kub-nodes_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Despliegue de OIRI en el nodo de Kubernetes local",
+      "filename": "../../deploy-oiri/deploy-oiri_es.md"
+    },
+    {
+      "title": "Laboratorio 5: Importación de datos a OIRI desde OIG",
+      "filename": "../../data-import/data-import_es.md"
+    },
+    {
+      "title": "Laboratorio 6: Minería de roles",
+      "filename": "../../role-mining/role-mining_es.md"
+    },
+    {
+      "title": "Laboratorio 7: Publicación de roles en OIG",
+      "filename": "../../publish-roles/publish-role_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
