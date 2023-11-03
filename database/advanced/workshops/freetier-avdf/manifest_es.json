@@ -1,0 +1,47 @@
+{
+  "workshoptitle": "Seguridad de base de datos: Audit Vault and DB Firewall",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "Comprender la arquitectura de este taller y lo que puede hacer",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-avdf_es.md"
+    },
+    {
+      "title": "Introducción",
+      "description": "Obtenga una prueba gratuita",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Preparación de la configuración",
+      "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+      "publisheddate": "09/28/2020",
+      "filename": "../../../common/prepare-setup/prepare-setup_es.md",
+      "type": "avdf"
+    },
+    {
+      "title": "Laboratorio 2: Configuración del entorno",
+      "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+      "publisheddate": "06/30/2020",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Inicialización del entorno",
+      "description": "Cómo inicializar e iniciar todos los componentes del taller",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Audit Vault y DB Firewall (AVDF)",
+      "description": "En este laboratorio podrá ver cómo aprovechar Oracle Audit Vault y DB Firewall (AVDF)",
+      "publisheddate": "10/20/2020",
+      "filename": "../../avdf/avdf_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
