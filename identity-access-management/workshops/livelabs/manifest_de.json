@@ -1,0 +1,32 @@
+{
+    "workshoptitle": "Identity and Access Management-Labor",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+            "title": "Einführung",
+            "filename": "./../../intro/intro_de.md"
+        },
+        {
+            "title": "IAM-Voraussetzungen",
+            "filename": "./../../prerequisites/iam_de.md"
+        },
+        {
+            "title": "Übung 1: IAM ohne Identity Domains",
+            "filename": "./../../iam/identity-access-management_de.md"
+        },
+        {
+            "title": "Übung 2: IAM mit Identitätsdomains",
+            "filename": "./../../iam/identity-access-management-identy-domain_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
