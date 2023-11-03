@@ -1,0 +1,30 @@
+{
+  "workshoptitle": "Taller de vinculación de aplicaciones con Oracle Identity Governance (OIG)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "En este laboratorio se ofrece una visión general de este taller.",
+      "filename": "../../introduction/intro-app-onboarding_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Vinculación de aplicaciones",
+      "filename": "../../application-onboarding/application-onboarding_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
