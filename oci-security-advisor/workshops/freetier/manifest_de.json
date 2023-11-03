@@ -1,0 +1,37 @@
+{
+  "workshoptitle": "Erste Schritte mit Oracle Cloud Infrastructure Security Advisor",
+  "help": "livelabs-help-oci_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Workshop und Labs - Einführung",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Details zur Registrierung für einen Free Tier-Account auf OCI",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+
+    {
+      "title": "Übung 1: Sicheren Bucket erstellen",
+      "description": "Schrittweise Anleitung zum Erstellen eines sicheren Buckets",
+      "filename": "../../provision-secure-bucket/create-bucket_de.md"
+    },
+    {
+      "title": "Übung 2: Sicheres Block-Volume erstellen",
+      "description": "Schrittweise Anleitung zum Erstellen eines sicheren Block-Volumes",
+      "filename": "../../provision-block-volume/create-block-volume_de.md"
+    },
+    {
+      "title": "Übung 3: Sichere VM-Instanz erstellen",
+      "description": "Schrittweise Anleitung zum Erstellen einer Secure Virtual Machine-Instanz",
+      "filename": "../../provision-virtual-machine/create-compute-instance_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "../../need-help/need-help_de.md"
+  }
+  ]
+}
