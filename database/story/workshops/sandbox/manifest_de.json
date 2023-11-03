@@ -1,0 +1,31 @@
+{
+  "workshoptitle": "DB Security - Geschichte eines Hack",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+      "filename": "../../intro/intro_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebungssetup",
+      "description": "Setup der Compute-Instanz prüfen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+    {
+      "title": "Übung 3: Oracle steht vor einem Ransomware-Angriff",
+      "description": "In dieser Übung erfahren Sie, wie Sie Oracle DB Security-Lösungen gegen einen Ransomware-Angriff nutzen können.",
+      "filename": "../../story-hack/story-hack_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+  ]
+}
