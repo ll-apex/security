@@ -1,0 +1,71 @@
+{
+  "workshoptitle": "Introducción a los conceptos básicos de Oracle Data Safe",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "En este laboratorio se proporciona información sobre el taller de Oracle Data Safe.",
+      "filename": "../../introduction/introduction_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Introducción",
+      "description": "Si es necesario, obtenga una cuenta de Oracle Cloud e inicie sesión.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Preparación del Entorno",
+      "description": "Requisitos para ejecutar el taller de Oracle Data Safe en su propio arrendamiento.",
+      "filename": "../../prepare-environment/prepare-environment_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 1: Registro de una instancia de Autonomous Database con Oracle Data Safe",
+      "description": "En este laboratorio se muestra cómo registrar una instancia de Autonomous Data Warehouse en una infraestructura de Exadata compartida con Oracle Data Safe y cargar datos de muestra en ella.",
+      "filename": "../../register-autonomous-database/register-autonomous-database_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 2: Auditoría de la actividad de la base de datos",
+      "description": "En este laboratorio se muestra cómo aprovisionar políticas de auditoría en Oracle Data Safe.",
+      "filename": "../../audit-database-activity/audit-database-activity_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 3: Generación de alertas",
+      "description": "En este laboratorio se muestra cómo aprovisionar políticas de alerta en Oracle Data Safe.",
+      "filename": "../../generate-alerts/generate-alerts_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 4: Evaluación de configuraciones de base de datos",
+      "description": "En este laboratorio se muestra cómo evaluar las configuraciones de base de datos en Autonomous Database con la función Evaluación de seguridad de Oracle Data Safe.",
+      "filename": "../../assess-database-configurations/assess-database-configurations_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 5: Evaluación de usuarios de base de datos",
+      "description": "En este laboratorio se muestra cómo evaluar los usuarios de base de datos en Autonomous Database mediante la función Evaluación de usuario de Oracle Data Safe.",
+      "filename": "../../assess-database-users/assess-database-users_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 6: Detección de datos confidenciales",
+      "description": "En este laboratorio se muestra cómo detectar datos confidenciales en la base de datos de destino mediante la función Detección de datos de Oracle Data Safe.",
+      "filename": "../../discover-sensitive-data/discover-sensitive-data_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "Laboratorio 7: Enmascaramiento de datos confidenciales",
+      "description": "En este laboratorio se muestra cómo enmascarar datos confidenciales en la base de datos de destino mediante la función Enmascaramiento de datos de Oracle Data Safe.",
+      "filename": "../../mask-sensitive-data/mask-sensitive-data_es.md",
+      "type": "paid"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
