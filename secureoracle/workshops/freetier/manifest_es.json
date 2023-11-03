@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "SecureOracle Taller 8.0",
+  "help": "livelabs-help-license_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción es siempre lo primero. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción",
+      "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Preparación de la configuración",
+      "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+      "filename": "../../prepare-setup/prepare-setup_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Configuración del entorno",
+      "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Inicialización del entorno",
+      "description": "Laboratorios posteriores a la inicialización de su entorno de taller",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Gestión del ciclo de vida de los empleados",
+      "filename": "../../employeelm/employeelm_es.md"
+    },
+    {
+      "title": "Laboratorio 5: Certificación de identidad",
+      "filename": "../../idcert/idcert_es.md"
+    },
+    {
+      "title": "Laboratorio 6: Uso de API de REST para OIM y OAM",
+      "filename": "../../restapi/restapi_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
