@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "OCI VSS Service-Integration mit Qualys verwenden",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 0: VSS-Qualys-Integration mit Oracle Resource Manager bereitstellen",
+            "filename": "../../common/orm-deploy_de.md"
+        },
+        {
+            "title": "Übung 1: Oracle Cloud Infrastructure-Komponenten konfigurieren",
+            "filename": "../../common/oci-config_de.md"
+        },
+        {
+            "title": "Übung 2: VSS-Integration mit Qualys und erforderlicher Konfiguration bereitstellen",
+            "filename": "../../vss-scanning-qualys/deploy-oci-vss_de.md"
+        },
+        {
+            "title": "Übung 3: Scan- und Sicherheitslückenberichte untersuchen",
+            "filename": "../../vss-scanning-qualys/scanning-vulnerabilities-reports_de.md"
+        },
+        {
+            "title": "Übung 4: Umgebung abreißen",
+            "filename": "../../common/tear-down_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
