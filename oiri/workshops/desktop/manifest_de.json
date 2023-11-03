@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "Oracle Identity Role Intelligence-(OIRI-)Workshop",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Diese Übung bietet einen Überblick über diesen Workshop.",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Erste Schritte mit noVNC Remote Desktop",
+      "description": "Verwenden von noVNC Remotedesktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebung initialisieren",
+      "description": "Umgebung initialisieren",
+      "filename": "../../initialize-environment/initialize-environment_de.md"
+    },
+    {
+      "title": "Übung 2: Kubernetes-Cluster bereitstellen und OIG-Server starten",
+      "filename": "../../init-kub-nodes/init-kub-nodes_de.md"
+    },
+    {
+      "title": "Übung 3: OIRI auf dem lokalen Kubernetes-Knoten bereitstellen",
+      "filename": "../../deploy-oiri/deploy-oiri_de.md"
+    },
+    {
+      "title": "Übung 4: Daten aus OIG in OIRI importieren",
+      "filename": "../../data-import/data-import_de.md"
+    },
+    {
+      "title": "Übung 5: Role Mining",
+      "filename": "../../role-mining/role-mining_de.md"
+    },
+    {
+      "title": "Übung 6: Rollen in OIG veröffentlichen",
+      "filename": "../../publish-roles/publish-role_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+  ]
+}
