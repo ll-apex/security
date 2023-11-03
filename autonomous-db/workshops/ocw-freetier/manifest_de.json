@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "Oracle Database Vault: Best-Kept Secret von Oracle",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+  {
+    "title": "Einführung",
+    "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+    "publisheddate": "09/01/2021",
+    "type": "odbw",
+    "filename": "../../intro/intro_de.md"
+  },
+  {
+    "title": "Erste Schritte",
+    "description": "Kostenlos testen",
+    "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+  },
+  {
+    "title": "Umgebung vorbereiten",
+    "description": "Voraussetzungen für die Ausführung des Oracle DB-Sicherheitsworkshops auf der autonomen DB in Ihrem eigenen Mandanten",
+    "publisheddate": "09/01/2021",
+    "filename": "../../prepare-setup/prepare-setup_de.md"
+  },
+  {
+    "title": "Übung 1: Database Vault (DV)",
+    "description": "In dieser Übung erfahren Sie, wie Sie Oracle Database Vault auf der autonomen DB nutzen können",
+    "publisheddate": "09/01/2021",
+    "filename": "../../dbvault/dbvault_de.md"
+  },
+  {
+    "title": "Oracle Autonomous Database beenden",
+    "description": "Eine verfügbare oder gestoppte Oracle Autonomous Database-Instanz beenden",
+    "filename":"https://oracle-livelabs.github.io/common/labs/terminate-adb/terminate-adb_de.md"
+  },
+  {
+    "title": "Oracle CloudWorld 2022 - Hilfe anfordern",
+    "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_de.md"
+    }
+]
+}
