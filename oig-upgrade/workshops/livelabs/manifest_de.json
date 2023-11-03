@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "Oracle Identity Governance-(OIG-)One-Hop-Upgrade",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Diese Übung bietet einen Überblick über diesen Workshop.",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebungssetup",
+      "description": "Setup der Compute-Instanz prüfen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-novnc_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebung initialisieren",
+      "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+      "filename": "../../initialize-environment/initialize-environment_de.md"
+    },
+    {
+      "title": "Übung 3: Pre-Upgrade-Anforderungen",
+      "filename": "../../pre-upgrade/pre-upgrade_de.md"
+    },
+    {
+      "title": "Übung 4: One-Hop-Upgrade",
+      "filename": "../../upgrade/upgrade_de.md"
+    },
+    {
+      "title": "Übung 5: Aufgaben nach dem Upgrade",
+      "filename": "../../post-upgrade/post-upgrade_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+  ]
+}
