@@ -1,0 +1,58 @@
+{
+  "workshoptitle": "Integración de Oracle Data Safe con aplicaciones y servicios",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "En este laboratorio se proporciona información sobre el taller de Oracle Data Safe.",
+      "filename": "../../introduction/introduction-integration_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Introducción",
+      "description": "Si es necesario, obtenga una cuenta de Oracle Cloud e inicie sesión.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Preparación del Entorno",
+      "description": "Requisitos para ejecutar el taller de Oracle Data Safe en su propio arrendamiento.",
+      "filename": "../../prepare-environment/prepare-environment_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Laboratorio 1: Registro de una instancia de Autonomous Database con Oracle Data Safe",
+      "description": "En este laboratorio se muestra cómo registrar una instancia de Autonomous Data Warehouse en una infraestructura de Exadata compartida con Oracle Data Safe y cargar datos de muestra en ella.",
+      "filename": "../../register-autonomous-database/register-autonomous-database_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Laboratorio 2: Descarga de la última evaluación de seguridad mediante la CLI de Oracle Data Safe",
+      "description": "En este laboratorio se muestra cómo utilizar la CLI de Oracle Data Safe para descargar un informe de evaluación de seguridad.",
+      "filename": "../../cli/cli_es.md",
+      "type": "freetier"
+    },{
+      "title": "Laboratorio 3: Copia de datos de auditoría en el almacenamiento de objetos mediante la API de REST de Oracle Data Safe",
+      "description": "En este laboratorio se muestra cómo utilizar la API de REST de Oracle Data Safe para copiar datos de auditoría en el almacenamiento de objetos.",
+      "filename": "../../api-copy-audit-data/api-copy-audit-data_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Laboratorio 4: Programación de la copia de datos de auditoría en el almacenamiento de objetos mediante la API de REST de Oracle Data Safe",
+      "description": "En este laboratorio se muestra cómo utilizar la API de REST de Oracle Data Safe para programar la copia de datos de auditoría en el almacenamiento de objetos.",
+      "filename": "../../api-schedule-audit-data-copy/api-schedule-audit-data-copy_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "Laboratorio 5: Reciba notificaciones sobre el cambio de seguridad en las bases de datos de destino configurando eventos de Oracle Data Safe",
+      "description": "En este laboratorio se muestra cómo configurar eventos en Oracle Cloud Infrastructure para eventos de Oracle Data Safe.",
+      "filename": "../../events/events_es.md",
+      "type": "freetier"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
