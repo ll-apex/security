@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Prevención y detección de fraudes mediante tablas de blockchain en Oracle Autonomous Database",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "La introducción es siempre la segunda. El título y el título del menú de contenido coinciden con la introducción.",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Aprovisionamiento de Oracle Autonomous Database",
+            "filename": "../../provision/provision_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Gestión de tablas de blockchain",
+            "filename": "../../manage-tables/manage-tables_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Importación de la aplicación web y prueba de las funciones de la tabla Blockchain",
+            "filename": "../../apex-app/apex-app_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Generación de claves SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Instalación (avanzada) de Node.js en la instancia informática y despliegue de la aplicación",
+            "filename": "../../deploy-app/deploy-app_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Terminación de Oracle Autonomous Database",
+            "filename": "https://oracle-livelabs.github.io/common/labs/terminate-adb/terminate-adb_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
