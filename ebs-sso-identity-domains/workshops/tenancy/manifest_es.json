@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "SSO de EBS mediante dominios de identidad de OCI IAM",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "La introducción es siempre lo primero. El título y el título del menú de contenido coinciden con la introducción.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "../../get_started/get_started_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Preparación de la configuración",
+            "description": "Cómo descargar las pilas de ORM y actualizar las reglas de seguridad de una VCN existente",
+            "filename": "../../prepare-setup/prepare-setup_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Despliegue de la pila ORM para crear EBS, EBS Asserter y dominio de identidad",
+            "description": "Cómo utilizar la pila para desplegar los recursos",
+            "filename": "../../deploy/deploy_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Creación de una aplicación confidencial en OCI IAM",
+            "description": "Laboratorios que ayudan a crear una aplicación confidencial en OCI IAM para llamar a las API de REST en la pila de configuración",
+            "filename": "../../create-confidential-app/create-confidential-app_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Despliegue de la pila ORM para configurar EBS Asserter y el dominio de identidad",
+            "description": "Laboratorios que ayudan a configurar las instancias de EBS Asserter y dominios de identidad",
+            "filename": "../../configure/configure_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Preparación de la aplicación EBS",
+            "description": "Laboratorios que ayudan a crear perfiles de sitio en la aplicación EBS y crear un usuario",
+            "filename": "../../prepare-ebs-app/prepare-ebs-app_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Validar el flujo de SSO ",
+            "description": "Prácticas que ayudan a validar el flujo de SSO",
+            "filename": "../../validate/validate_es.md"
+        },
+        {
+            "title": "Laboratorio 8: Limpieza del entorno",
+            "description": "Laboratorios que ayudan a limpiar los recursos utilizados",
+            "filename": "../../cleanup/destroy_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
