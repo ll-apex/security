@@ -1,0 +1,44 @@
+{
+    "workshoptitle": "OCI Network Firewall-Lösung auf Oracle Cloud Infrastructure verwenden",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 0: Netzwerkfirewall mit Oracle Resource Manager bereitstellen",
+            "filename": "../../common/orm-deploy_de.md"
+        },
+        {
+            "title": "Übung 1: Oracle Cloud Infrastructure-Komponenten konfigurieren",
+            "filename": "../../common/oci-config_de.md"
+        },
+        {
+            "title": "Übung 2: Netzwerkfirewall und erforderliche Konfiguration bereitstellen",
+            "filename": "../../network-firewall/deploy-network-firewall_de.md"
+        },
+        {
+            "title": "Übung 3: Netzwerkfirewall-Policy konfigurieren",
+            "filename": "../../network-firewall/config-network-firewall_de.md"
+        },
+        {
+            "title": "Übung 4: Validierung und Sicherheitsfunktionen des Netzwerkfirewallverkehrs",
+            "filename": "../../network-firewall/traffic-validation_de.md"
+        },
+        {
+            "title": "Übung 5: Umgebung abreißen",
+            "filename": "../../common/tear-down_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
