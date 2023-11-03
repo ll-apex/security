@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "Oracle Identity Governance(OIG)ワンホップ・アップグレード",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "このラボでは、このワークショップの概要を説明します。",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップの開始",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "導入に続くラボには、演習1から番号が付けられます。",
+      "filename": "../../initialize-environment/initialize-environment_ja.md"
+    },
+    {
+      "title": "演習2: アップグレード前の要件",
+      "filename": "../../pre-upgrade/pre-upgrade_ja.md"
+    },
+    {
+      "title": "演習3: ワンホップ・アップグレード",
+      "filename": "../../upgrade/upgrade_ja.md"
+    },
+    {
+      "title": "演習4: アップグレード後のタスク",
+      "filename": "../../post-upgrade/post-upgrade_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+    }
+  ]
+}
