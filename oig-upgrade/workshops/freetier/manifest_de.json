@@ -1,0 +1,50 @@
+{
+  "workshoptitle": "Oracle Identity Governance-(OIG-)One-Hop-Upgrade",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Diese Übung bietet einen Überblick über diesen Workshop.",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+    {
+      "title": "Übung 1: Setup vorbereiten",
+      "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+      "publisheddate": "09/28/2020",
+      "filename": "../../prepare-setup/prepare-setup_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebungssetup",
+      "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+      "publisheddate": "06/30/2020",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc_de.md"
+    },
+    {
+      "title": "Übung 3: Umgebung initialisieren",
+      "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+      "filename": "../../initialize-environment/initialize-environment_de.md"
+    },
+    {
+      "title": "Übung 4: Pre-Upgrade-Anforderungen",
+      "filename": "../../pre-upgrade/pre-upgrade_de.md"
+    },
+    {
+      "title": "Übung 5: One-Hop-Upgrade",
+      "filename": "../../upgrade/upgrade_de.md"
+    },
+    {
+      "title": "Übung 6: Aufgaben nach dem Upgrade",
+      "filename": "../../post-upgrade/post-upgrade_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    }
+  ]
+}
