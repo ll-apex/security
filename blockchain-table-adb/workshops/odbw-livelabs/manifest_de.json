@@ -1,0 +1,46 @@
+{
+    "workshoptitle": "Betrug mit Blockchain-Tabellen in Oracle Autonomous Database verhindern und erkennen",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung ist immer an zweiter Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "type": "odbw",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Übung 1: Oracle Autonomous Database bereitstellen",
+            "filename": "../../provision/provision_de.md"
+        },
+        {
+            "title": "Übung 2: Blockchain-Tabellen verwalten",
+            "filename": "../../manage-tables/manage-tables_de.md"
+        },
+        {
+            "title": "Übung 3: Webanwendung importieren und Blockchain-Tabellenfeatures testen",
+            "filename": "../../apex-app/apex-app_de.md"
+        },
+        {
+            "title": "Übung 4: SSH-Schlüssel generieren",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell_de.md"
+        },
+        {
+            "title": "Übung 5: (Erweitert) Installieren Sie Node.js in der Compute-Instanz, und stellen Sie die Anwendung bereit",
+            "filename": "../../deploy-app/deploy-app_de.md"
+        },
+        {
+            "title": "Übung 6: Oracle Autonomous Database beenden",
+            "filename": "https://oracle-livelabs.github.io/common/labs/terminate-adb/terminate-adb_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
