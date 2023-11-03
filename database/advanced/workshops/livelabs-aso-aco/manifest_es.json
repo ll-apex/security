@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "Seguridad de base de datos: compresión avanzada con cifrado de datos transparente (TDE)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "Comprender la arquitectura de este taller y lo que puede hacer",
+      "publisheddate": "06/09/2023",
+      "filename": "../../aso-aco/aco/introduction/intro-aso-aco_es.md"
+    },
+    {
+      "title": "Introducción",
+      "description": "Verificar configuración de instancia informática",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Cómo inicializar e iniciar todos los componentes del taller",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Configuración de esquema de ejemplo",
+      "description": "Configurar esquema",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/setup/setup_es.md"
+    },
+    {
+      "title": "Laboratorio 3: cifrado de datos transparente (TDE)",
+      "description": "Crear nuevo tablespace cifrado que aproveche el cifrado de datos transparente (TDE) de Oracle",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/tde/tde_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Activación de la compresión avanzada y la redefinición en línea en el tablespace cifrado",
+      "description": "Compresión en línea en tablespace cifrado mediante redefinición en línea",
+      "publisheddate": "03/20/2023",
+      "filename": "../../aso-aco/aco/aco_row_index/aco_row_index_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
