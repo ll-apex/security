@@ -1,0 +1,34 @@
+{
+  "workshoptitle": "Oracle Database Vault: Oracleのベスト・キープ・シークレット",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+  {
+    "title": "概要",
+    "description": "このワークショップのアーキテクチャとその実行内容の理解",
+    "publisheddate": "09/01/2021",
+    "type": "odbw",
+    "filename": "../../intro/intro_ja.md"
+  },
+  {
+    "title": "環境の準備",
+    "description": "自社のテナンシのAutonomous DBでOracle DB Securityワークショップを実行するための前提条件",
+    "publisheddate": "09/01/2021",
+    "filename": "../../prepare-setup/prepare-setup_ja.md"
+  },
+  {
+    "title": "演習1: Database Vault(DV)",
+    "description": "このラボでは、Autonomous DBでOracle Database Vaultを活用する方法を確認できます",
+    "publisheddate": "09/01/2021",
+    "filename": "../../dbvault/dbvault_ja.md"
+  },
+  {
+    "title": "Oracle Autonomous Databaseの終了",
+    "description": "使用可能なまたは停止されたOracle Autonomous Databaseインスタンスの終了",
+    "filename":"https://oracle-livelabs.github.io/common/labs/terminate-adb/terminate-adb_ja.md"
+  },
+  {
+    "title": "Oracle CloudWorld 2022 - ヘルプの入手",
+    "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+    }
+]
+}
