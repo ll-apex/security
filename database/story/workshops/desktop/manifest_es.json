@@ -1,0 +1,31 @@
+{
+  "workshoptitle": "DB Security: historia de un hack",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "Comprender la arquitectura de este taller y lo que puede hacer",
+      "filename": "../../intro/intro_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../../common/init-start-env/init-start-env_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Oracle se enfrenta a un ataque de ransomware",
+      "description": "En este laboratorio podrá ver cómo aprovechar las soluciones de seguridad de Oracle DB frente a un ataque de ransomware.",
+      "filename": "../../story-hack/story-hack_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
