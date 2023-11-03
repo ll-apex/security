@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "Proteja sus claves de cifrado en un HSM de su propiedad para abordar la seguridad y la soberanía",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Proteja sus claves de cifrado en la nube en su propio HSM para cumplir con los requisitos de seguridad y soberanía.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Éste es el requisito para los asistentes que utilizan el arrendamiento proporcionado por OCW23.",
+            "filename": "../../get-started/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de enlaces entre OCI y su creación de HSM y clave de cifrado maestra",
+            "filename": "../../create-connection/create-connection_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Traiga su propia clave a Oracle Cloud Infrastructure (BYOK a OCI)",
+            "filename": "../../byok-to-oci/byok-to-oci_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Configuración del cifrado gestionado por el cliente para recursos de OCI",
+            "filename": "../../encrypt-resources/encrypt-resources_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Prueba de simulación de emergencia: acceso a datos de bloque",
+            "filename": "../../simulation-block-access/simulation-block-access_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Prueba de simulación de emergencia: volver a activar el acceso a los datos",
+            "filename": "../../simulation-enable-access/simulation-enable-access_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        },
+        {
+            "title": "Oracle CloudWorld 2023: Soporte",
+            "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_es.md"
+        }
+    ]
+}
