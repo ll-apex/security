@@ -1,0 +1,34 @@
+{
+  "workshoptitle": "Seguridad de BD - Herramienta de evaluación de bases de datos",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "Comprender la arquitectura de este taller y lo que puede hacer",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-dbsat_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Configuración del entorno",
+      "description": "Verificar configuración de instancia informática",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Inicialización del entorno",
+      "description": "Cómo inicializar e iniciar todos los componentes del taller",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Herramienta de evaluación de la seguridad de la base de datos (DBSAT)",
+      "description": "En este laboratorio, puede ver cómo aprovechar Oracle DB Assessment Tool (DBSAT)",
+      "publisheddate": "10/20/2020",
+      "filename": "../../dbsat/dbsat_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
