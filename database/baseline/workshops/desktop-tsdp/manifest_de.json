@@ -1,0 +1,34 @@
+{
+  "workshoptitle": "DB-Sicherheit - Datenbankbewertungstool",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Verstehen Sie die Architektur dieses Workshops und was sie tun kann",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-dbsat_de.md"
+    },
+    {
+      "title": "Erste Schritte mit noVNC Remote Desktop",
+      "description": "Verwenden von noVNC Remotedesktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebung initialisieren",
+      "description": "So initialisieren und starten Sie alle Workshop-Komponenten",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_de.md"
+    },
+    {
+      "title": "Lab 2: Transparenter Schutz sensibler Daten (TSDP)",
+      "description": "In dieser Übung lernen Sie, wie Sie Oracle Transparent Sensitive Data Protection (TSDP) nutzen",
+      "publisheddate": "04/14/2021",
+      "filename": "../../tsdp/tsdp_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+  ]
+}
