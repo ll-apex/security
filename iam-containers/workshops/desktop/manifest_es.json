@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "Introducción a IAM Suite en contenedores de Kubernetes",
+  "help": "livelabs-help-license_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción siempre es la segunda para LiveLabs. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Inicialización del entorno",
+      "description": "Los laboratorios que siguen a la introducción están numerados, empezando por el laboratorio 1",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 2: Despliegue del dominio de Oracle Identity Governance (OIG)",
+      "filename": "../../oig/oig_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Despliegue del dominio de Oracle Access Manager (OAM)",
+      "filename": "../../oam/oam_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Despliegue de Oracle Unified Directory (OUD)",
+      "filename": "../../oud/oud_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
