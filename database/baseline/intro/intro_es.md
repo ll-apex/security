@@ -1,0 +1,62 @@
+# Introducción
+
+## Acerca de este taller
+
+### Descripción general
+
+_Tiempo estimado para completar el taller_: 310 minutos
+
+Este taller es la PRIMERA PARTE de los laboratorios prácticos dedicados a las funciones y funcionalidades de Oracle Database Security. Para el segundo taller, consulte _DB Security Advanced_.
+
+Basado en una arquitectura de OCI, desplegada en unos minutos con una conexión a Internet sencilla, permite probar casos de uso de seguridad de base de datos en un entorno completo ya preconfigurado por el equipo de gestión de productos de Oracle Database Security.
+
+Ahora, ya no necesita recursos importantes en su PC (almacenamiento, CPU o memoria), ni herramientas complejas para dominar, lo que le hace completamente autónomo para descubrir a su ritmo todas las nuevas funciones de seguridad de base de datos.
+
+Vea una vista previa de "_Livelabs: Conceptos básicos de seguridad de bases de datos (mayo de 2022)_"[](youtube:tyyZmW4YyPk)
+
+### Componentes
+
+La arquitectura completa de los **Laboratorios prácticos sobre seguridad de base de datos (v5.3 - septiembre de 2023)** es la siguiente:
+
+![DBSec LiveLabs Archi](./images/dbseclab-archi.png "DBSec LiveLabs Archi")
+
+Está compuesto por 5 máquinas virtuales:
+
+*   **DBSec-Lab VM** (obligatorio para todos los talleres: talleres básicos y avanzados)
+*   **VM de servidor de almacén de auditoría** (solo para taller avanzado)
+*   **VM de servidor de firewall de base de datos** (solo para taller avanzado)
+*   **VM de servidor de almacén de claves** (solo para taller avanzado)
+*   **DB23c VM** (solo para el taller de SQL Firewall)
+
+Durante esta 1a parte, utilizará diferentes recursos para interactuar con estas máquinas virtuales:
+
+*   Cliente de terminal SSH
+*   Aplicación HR Glassfish
+*   Oracle Enterprise Manager 13c
+*   (Opcionalmente) SQL Developer
+
+Para que su experiencia en este taller sea la mejor posible, NO OLVIDE realizar el "Laboratorio: _Inicializar entorno_" para asegurarse de que todos estos recursos están correctamente configurados.
+
+### Objetivos
+
+En estos laboratorios prácticos se ofrece al usuario la oportunidad de aprender a configurar las funciones de seguridad de base de datos para proteger y proteger sus bases de datos desde la base hasta la arquitectura de máxima seguridad (MSA).
+
+En esta primera parte, verá los productos y soluciones base de Oracle Database Security de la siguiente forma:
+
+*   **Herramienta de evaluación de Oracle Database Security** (DBSAT)
+*   **Cifrado de red nativo de Oracle** (NNE)
+*   **Análisis de Privilegios de Oracle**
+*   **Auditoría Unificada de Oracle**
+*   **Protección de datos confidenciales transparente (TSDP) de Oracle**
+*   **Oracle SQL Firewall**
+*   **Oracle Data Safe para una base de datos local**
+
+¡Todo el equipo de PMs de DB Security le desea un excelente taller!
+
+Ahora puede [proceder al siguiente laboratorio](#next)
+
+## Reconocimientos
+
+*   **Autor**: Hakim Loumi, responsable de seguridad de bases de datos
+*   **Contribuyentes**: Pedro Lopes, Richard Evans, Angeline Dhanarani, Bettina Schaeumer, Jody Glover
+*   **Última actualización por/fecha**: Hakim Loumi, mánager de proyectos de seguridad de bases de datos - Septiembre de 2023
