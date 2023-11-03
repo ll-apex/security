@@ -1,0 +1,57 @@
+{
+    "workshoptitle": "Erste Schritte mit Oracle Database 21c Security",
+    "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "filename": "../../introduction/intro-security_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel erstellen",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_de.md"
+        },
+        {
+            "title": "Übung 2: DBCS-VM-Datenbank erstellen",
+            "filename": "https://raw.githubusercontent.com/oracle-livelabs/database/main/db-21c-fundamentals/create-oci-vm-db/create-oci-vm-db/create-oci-vm-db-vcn_de.md"
+        },
+        {
+            "title": "Übung 3: 21C einrichten",
+            "filename": "../../setup/setup_de.md"
+        },
+        {
+            "title": "Übung 4: Blockchain-Tabellen und -Zeilen verwalten",
+            "filename": "../../blockchain-table/blockchain-table_de.md"
+        },
+        {
+            "title": "Übung 5: Tablespace-Verschlüsselungsalgorithmus festlegen",
+            "filename": "../../tbsp-encryption/tbsp-encryption_de.md"
+        },
+        {
+            "title": "Übung 6: Lokale Benutzer mit Realms daran hindern, allgemeine Vorgänge zu blockieren",
+            "filename": "../../realms/realms_de.md"
+        },
+        {
+            "title": "Übung 7: Authentifizierung und Administration",
+            "filename": "../../introduction/intro-admin_de.md"
+        },
+        {
+            "title": "Übung 8: Groß-/Kleinschreibung bei aktualisierten Kennwortdateien erzwingen",
+            "filename": "../../upgraded-pwd/upgraded-pwd_de.md"
+        },
+        {
+            "title": "Übung 9: Durchsetzung der Kennwortlänge durchsetzen",
+            "filename": "../../enforce-min-pwd/enforce-min-pwd_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
