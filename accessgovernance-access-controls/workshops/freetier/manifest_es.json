@@ -1,0 +1,74 @@
+{
+    "workshoptitle": "Implantación de controles de acceso mediante Oracle Access Governance",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "La introducción es siempre lo primero. El título y el título del menú de contenido coinciden con la introducción.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de compartimento y dominio de identidad",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "../../create-identity-domain/create-identity-domain_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Preparación de la configuración",
+            "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+            "filename": "../../prepare-setup/prepare-setup_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Configuración del entorno",
+            "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Creación de usuarios y políticas de IAM para Access Governance",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "../../create-ag-group-policies/create-ag-group-policies_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Configuración y configuración de la instancia de servicio de Oracle Access Governance",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../ag-instance-setup/ag-instance-setup_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Conexión a OIG y Oracle Database",
+            "description": "Adición de sistemas conectados de OIG y Oracle DB ",
+            "filename": "../../integrate-oag-db/integrate-oag-db_es.md"
+        },
+        {
+            "title": "Laboratorio 7: Marcar las identidades para Access Governance",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../mark-identities/mark-identities_es.md"
+        },
+        {
+            "title": "Laboratorio 8: Definición de controles de acceso para la base de datos ",
+            "filename": "../../access-control/access-control_es.md"
+        },
+        {
+            "title": "Laboratorio 9: Realización de revisiones de acceso para la base de datos",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../access-review/access-review_es.md"
+        },
+        {
+            "title": "Laboratorio 10: Limpiar instancia de servicio Access Governance",
+            "filename": "../../aginstance-cleanup/aginstance-cleanup_es.md"
+        },
+        {
+            "title": "Laboratorio 11: Limpieza del entorno",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cleanup-stack/cleanup-stack_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
