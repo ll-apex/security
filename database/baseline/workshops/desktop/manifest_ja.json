@@ -1,0 +1,70 @@
+{
+  "workshoptitle": "DBセキュリティの基本",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "このワークショップのアーキテクチャとその実行内容の理解",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップの開始",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "すべてのワークショップ・コンポーネントを初期化および開始する方法",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_ja.md"
+    },
+    {
+      "title": "演習2: データベース・セキュリティ評価ツール(DBSAT)",
+      "description": "この演習では、Oracle DB Assessment Tool (DBSAT)の活用方法を確認できます。",
+      "publisheddate": "10/20/2020",
+      "filename": "../../dbsat/dbsat_ja.md"
+    },
+    {
+      "title": "演習3: ネイティブ・ネットワーク暗号化(NNE)",
+      "description": "この演習では、Oracle Native Network Encryption (NNE)の活用方法を確認できます。",
+      "publisheddate": "10/20/2020",
+      "filename": "../../nne/nne_ja.md"
+    },
+    {
+      "title": "演習4: 権限分析",
+      "description": "この演習では、Oracle Privilege Analysisの活用方法を確認できます。",
+      "publisheddate": "10/20/2020",
+      "filename": "../../priv-analysis/priv-analysis_ja.md"
+    },
+    {
+      "title": "演習5: 統合監査",
+      "description": "この演習では、Oracle統合監査の活用方法を確認できます。",
+      "publisheddate": "10/20/2020",
+      "filename": "../../unified-auditing/unified-auditing_ja.md"
+    },
+    {
+      "title": "演習6: 透過的機密データ保護(TSDP)",
+      "description": "このラボでは、Oracle Transparent Sensitive Data Protection (TSDP)の活用方法をご紹介します",
+      "publisheddate": "04/14/2021",
+      "filename": "../../tsdp/tsdp_ja.md"
+    },
+    {
+      "title": "演習7: SQLファイアウォール",
+      "description": "この演習では、Oracle SQL Firewallの活用方法を確認できます。",
+      "publisheddate": "08/18/2023",
+      "filename": "../../sqlfw/sqlfw_ja.md"
+    },
+    {
+      "title": "演習8: オンプレミス・データベースのデータ・セーフ",
+      "description": "このラボでは、Oracle Data Safeの活用方法を確認できます",
+      "publisheddate": "10/11/2021",
+      "filename": "../../data-safe/data-safe_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+  ]
+}
