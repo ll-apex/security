@@ -1,0 +1,96 @@
+{
+    "workshoptitle": "Oracle Access Governance - Komplette Erfahrung",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung steht immer an erster Stelle. Titel und Inhalt des Menüs stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Compartment und Identitätsdomain erstellen",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "../../create-identity-domain/create-identity-domain_de.md"
+        },
+        {
+            "title": "Übung 2: Access Governance-Policys erstellen",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "../../create-ag-group-policies/create-ag-group-policies_de.md"
+        },
+        {
+            "title": "Übung 3: Setup vorbereiten",
+            "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+            "filename": "../../prepare-setup/prepare-setup_de.md"
+        },
+        {
+            "title": "Übung 4: Umgebungssetup",
+            "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+        },
+        {
+            "title": "Übung 5: Umgebung prüfen und initialisieren",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab ",
+            "filename": "../../environment-initialize/environment-initialize_de.md"
+        },
+        {
+            "title": "Übung 6: Oracle Access Governance-Serviceinstanz einrichten und konfigurieren und Benutzer in OCI IAM erstellen",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab ",
+            "filename": "../../instance-setup/ag-instance-setup_de.md"
+        },
+        {
+            "title": "Übung 7: Oracle Access Governance-Agent installieren und konfigurieren",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab ",
+            "filename": "../../agent-install/agent-install_de.md"
+        },
+        {
+            "title": "Übung 8: AG-Daten laden",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab ",
+            "filename": "../../data-load/data-load_de.md"
+        },
+        {
+            "title": "Übung 9: Identitäten markieren",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab ",
+            "filename": "../../mark-identities/mark-identities_de.md"
+        },
+        {
+            "title": "Übung 10: Zugriffsprüfungskampagne erstellen",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Lab 1.",
+            "filename": "../../create-campaign/create-campaign_de.md"
+        },
+        {
+            "title": "Übung 11: Prüfen, wer Zugriff auf was hat",
+            "filename": "../../review-who-has-access/review-who-has-access_de.md"
+        },
+        {
+            "title": "Übung 12: Zugriffsprüfung durchführen",
+            "filename": "../../perform-access-review/perform-access-review_de.md"
+        },
+        {
+            "title": "Übung 13: Zugriffsprüfungskampagnen verwalten",
+            "filename": "../../manage-campaign/manage-campaign_de.md"
+        },
+        {
+            "title": "Übung 14: Kampagnen zur ereignisbasierten Zugriffsprüfung verwalten",
+            "filename": "../../event-based-review/event-based-review_de.md"
+        },
+        {
+            "title": "Übung 15: Bereinigung von Access Governance-Serviceinstanzen",
+            "filename": "../../aginstance-cleanup/aginstance-cleanup_de.md"
+        },
+        {
+            "title": "Übung 16: Umweltbereinigung",
+            "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cleanup-stack/cleanup-stack_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
