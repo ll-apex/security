@@ -1,0 +1,43 @@
+{
+  "workshoptitle": "Taller de vinculación de aplicaciones con Oracle Identity Governance (OIG)",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "En este laboratorio se ofrece una visión general de este taller.",
+      "filename": "../../introduction/intro-app-onboarding_es.md"
+    },
+    {
+      "title": "Introducción",
+      "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+    },
+    {
+      "title": "Laboratorio 1: Preparación de la configuración",
+      "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+      "publisheddate": "09/28/2020",
+      "filename": "../../prepare-setup/prepare-setup_es.md",
+      "type": "app-onboarding"
+    },
+    {
+      "title": "Laboratorio 2: Configuración del entorno",
+      "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+      "publisheddate": "06/30/2020",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md"
+    },
+    {
+      "title": "Laboratorio 3: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Laboratorio 4: Vinculación de aplicaciones",
+      "filename": "../../application-onboarding/application-onboarding_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    }
+  ]
+}
