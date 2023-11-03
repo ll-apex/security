@@ -1,0 +1,56 @@
+{
+   "workshoptitle": "LiveLabs",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+   {
+      "title": "Introducción",
+      "description": "",
+      "filename": "../../introduction/introduction_es.md"
+   },
+   {
+      "title": "Introducción",
+      "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+   },
+   {
+      "title": "Práctica 1: Configuración de la instancia de Autonomous Database",
+      "description": "",
+      "filename": "../../configure-adb-instance/configure-adb-instance_es.md"
+   },
+   {
+      "title": "Laboratorio 2: Conéctese a la aplicación Glassfish HR heredada",
+      "description": "",
+      "filename": "../../connect-legacy-application/connect-legacy-application_es.md"
+   },
+   {
+      "title": "Laboratorio 3: Carga y verificación de los datos en la aplicación Glassfish",
+      "description": "",
+      "filename": "../../load-verify-data/load-verify-data_es.md"
+   },
+   {
+      "title": "Laboratorio 4: Activación de Database Vault y verificación de la aplicación HR",
+      "description": "",
+      "filename": "../../enable-dv-verify/enable-dv-verify_es.md"
+   },
+   {
+      "title": "Laboratorio 5: Identificación de las conexiones al esquema EMPLOYEESEARCH_PROD",
+      "description": "",
+      "filename": "../../identify-schema-connections/identify-schema-connections_es.md"
+   },
+   {
+      "title": "Laboratorio 6: Exploración de las funciones de la aplicación Glassfish HR con Database Vault activado",
+      "description": "",
+      "filename": "../../explore-app-with-dv-enabled/explore-app-with-dv-enabled_es.md"
+   },
+   {
+      "title": "Laboratorio 7: Restablecimiento del entorno",
+      "description": "",
+      "filename": "../../reset-your-environment/reset-your-environment_es.md"
+   },
+   {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+   }
+]
+}
