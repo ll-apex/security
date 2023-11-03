@@ -1,0 +1,96 @@
+{
+    "workshoptitle": "Oracle Access Governance: experiencia completa",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "La introducción es siempre lo primero. El título y el título del menú de contenido coinciden con la introducción.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Creación de compartimento y dominio de identidad",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "../../create-identity-domain/create-identity-domain_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Creación de políticas de Access Governance",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "../../create-ag-group-policies/create-ag-group-policies_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Preparación de la configuración",
+            "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+            "filename": "../../prepare-setup/prepare-setup_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Configuración del entorno",
+            "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Verificación del entorno e inicialización",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../environment-initialize/environment-initialize_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Configuración y configuración de la instancia del servicio Oracle Access Governance y creación de usuarios en OCI IAM",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../instance-setup/ag-instance-setup_es.md"
+        },
+        {
+            "title": "Laboratorio 7: Instalación y configuración del agente de Oracle Access Governance",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../agent-install/agent-install_es.md"
+        },
+        {
+            "title": "Laboratorio 8: Realizar carga de datos AG",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../data-load/data-load_es.md"
+        },
+        {
+            "title": "Laboratorio 9: Marcar las identidades",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por los laboratorios ",
+            "filename": "../../mark-identities/mark-identities_es.md"
+        },
+        {
+            "title": "Laboratorio 10: Creación de campaña de revisión de acceso",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por el laboratorio 1",
+            "filename": "../../create-campaign/create-campaign_es.md"
+        },
+        {
+            "title": "Laboratorio 11: Revisar quién tiene acceso a qué",
+            "filename": "../../review-who-has-access/review-who-has-access_es.md"
+        },
+        {
+            "title": "Laboratorio 12: Realización de una revisión de acceso",
+            "filename": "../../perform-access-review/perform-access-review_es.md"
+        },
+        {
+            "title": "Laboratorio 13: Gestión de campañas de revisión de acceso",
+            "filename": "../../manage-campaign/manage-campaign_es.md"
+        },
+        {
+            "title": "Laboratorio 14: Gestión de campañas de revisión de acceso basadas en eventos",
+            "filename": "../../event-based-review/event-based-review_es.md"
+        },
+        {
+            "title": "Laboratorio 15: Limpieza de instancias del servicio Access Governance",
+            "filename": "../../aginstance-cleanup/aginstance-cleanup_es.md"
+        },
+        {
+            "title": "Laboratorio 16: Limpieza del entorno",
+            "description": "Este es el requisito para que los clientes utilicen arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cleanup-stack/cleanup-stack_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
