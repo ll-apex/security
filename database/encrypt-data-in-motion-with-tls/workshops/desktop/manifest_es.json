@@ -1,0 +1,47 @@
+{
+   "workshoptitle": "Protección correcta de la comunicación de base de datos mediante TLS unidireccional",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+     {
+       "title": "Introducción",
+       "description": "Comprender la arquitectura de este taller y lo que puede hacer",
+       "publisheddate": "09/01/2020",
+       "filename": "../../introduction/introduction_es.md"
+     },
+     {
+       "title": "Introducción",
+       "description": "Estos son los requisitos para los clientes que utilizan el modelo virtual NoVNC.",
+       "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+     },
+     {
+       "title": "Laboratorio 1: Preparación de la configuración",
+       "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+       "publisheddate": "09/28/2020",
+       "filename": "../../prepare-setup/prepare-setup_es.md",
+       "type": "nne"
+     },
+     {
+       "title": "Laboratorio 2: Configuración del entorno",
+       "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+       "publisheddate": "06/30/2020",
+       "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md"
+     },
+     {
+       "title": "Laboratorio 3: Inicialización del entorno",
+       "description": "Cómo inicializar e iniciar todos los componentes del taller",
+       "publisheddate": "10/14/2020",
+       "filename": "../../init-start-env/init-start-env_es.md"
+     },
+     {
+       "title": "Laboratorio 4: Protección correcta de la comunicación de la base de datos mediante TLS unidireccional",
+       "description": "En este laboratorio, puede ver cómo aprovechar Oracle Transport Layer Security (TLS)",
+       "publisheddate": "10/20/2020",
+       "filename": "../../successfully-protect-your-database-communication-using-one-way-tls/successfully-protect-your-database-communication-using-one-way-tls_es.md"
+     },
+     {
+       "title": "¿Necesita Ayuda?",
+       "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+       "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+     }
+   ]
+ }
