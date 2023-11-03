@@ -1,0 +1,47 @@
+{
+   "workshoptitle": "一方向TLSを使用してデータベース通信を正常に保護",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+     {
+       "title": "概要",
+       "description": "このワークショップのアーキテクチャとその実行内容の理解",
+       "publisheddate": "09/01/2020",
+       "filename": "../../introduction/introduction_ja.md"
+     },
+     {
+       "title": "開始",
+       "description": "これは、NoVNC仮想マシンスを使用するお客様の前提条件です。",
+       "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+     },
+     {
+       "title": "演習1: 設定の準備",
+       "description": "ORMスタックをダウンロードし、既存のVCNのセキュリティ・ルールを更新する方法",
+       "publisheddate": "09/28/2020",
+       "filename": "../../prepare-setup/prepare-setup_ja.md",
+       "type": "nne"
+     },
+     {
+       "title": "演習2: 環境設定",
+       "description": "ワークショップ環境をプロビジョニングして接続する方法",
+       "publisheddate": "06/30/2020",
+       "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ja.md"
+     },
+     {
+       "title": "演習3: 環境の初期化",
+       "description": "すべてのワークショップ・コンポーネントを初期化および開始する方法",
+       "publisheddate": "10/14/2020",
+       "filename": "../../init-start-env/init-start-env_ja.md"
+     },
+     {
+       "title": "演習4: 一方向TLSを使用してデータベース通信を正常に保護",
+       "description": "このラボでは、Oracle Transport Layer Security (TLS)の活用方法を確認できます",
+       "publisheddate": "10/20/2020",
+       "filename": "../../successfully-protect-your-database-communication-using-one-way-tls/successfully-protect-your-database-communication-using-one-way-tls_ja.md"
+     },
+     {
+       "title": "サポートが必要ですか。",
+       "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+       "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+     }
+   ]
+ }
