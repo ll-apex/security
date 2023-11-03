@@ -1,0 +1,38 @@
+{
+  "workshoptitle": "SecureOracle 8.0ワークショップ",
+  "help": "livelabs-help-license_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "はじめに LiveLabsの場合は常に2番目です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップの開始",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "環境の初期化",
+      "filename": "../../initialize-environment/initialize-environment_ja.md"
+    },
+    {
+      "title": "演習2: 従業員ライフサイクル管理",
+      "filename": "../../employeelm/employeelm_ja.md"
+    },
+    {
+      "title": "演習3: アイデンティティの証明",
+      "filename": "../../idcert/idcert_ja.md"
+    },
+    {
+      "title": "演習4: OIMとOAMでのREST APIの使用",
+      "filename": "../../restapi/restapi_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+  ]
+}
