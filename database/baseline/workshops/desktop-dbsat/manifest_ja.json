@@ -1,0 +1,34 @@
+{
+  "workshoptitle": "DBセキュリティ- Database Assessment Tool",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "このワークショップのアーキテクチャとその実行内容の理解",
+      "publisheddate": "09/01/2020",
+      "filename": "../../intro/intro-dbsat_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップの開始",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "すべてのワークショップ・コンポーネントを初期化および開始する方法",
+      "publisheddate": "10/14/2020",
+      "filename": "../../../common/init-start-env/init-start-env_ja.md"
+    },
+    {
+      "title": "演習2: データベース・セキュリティ評価ツール(DBSAT)",
+      "description": "この演習では、Oracle DB Assessment Tool (DBSAT)の活用方法を確認できます。",
+      "publisheddate": "10/20/2020",
+      "filename": "../../dbsat/dbsat_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+  ]
+}
