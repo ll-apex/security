@@ -1,0 +1,41 @@
+{
+   "workshoptitle": "Oracle Data Redactionを使用したREST GETコールの機密データの保護",
+   "help": "livelabs-help-db_us@oracle.com",
+   "tutorials": [
+   {
+      "title": "概要",
+      "description": "",
+      "filename": "../../introduction/introduction_ja.md"
+   },
+   {
+      "title": "開始",
+      "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+   },
+   {
+      "title": "演習1: Autonomous Database環境の構成",
+      "description": "",
+      "filename": "../../create-schemas-load-data/create-schemas-load-data_ja.md"
+   },
+   {
+      "title": "演習2: リダクションを使用したすべてのREST Getコールおよび問合せの匿名化",
+      "description": "",
+      "filename": "../../use-redaction-anonymize-all-restcalls-and-queries/use-redaction-anonymize-all-restcalls-and-queries_ja.md"
+   },
+   {
+      "title": "演習3: リダクションを使用したREST取得コールのみの匿名化",
+      "description": "",
+      "filename": "../../use-redaction-to-anonymize-only-restcalls/use-redaction-to-anonymize-only-restcalls_ja.md"
+   },
+   {
+      "title": "演習4: 環境のリセット",
+      "description": "",
+      "filename": "../../reset-your-environment/reset-your-environment_ja.md"
+   },
+   {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+   }
+]
+}
