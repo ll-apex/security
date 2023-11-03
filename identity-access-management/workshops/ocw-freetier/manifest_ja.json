@@ -1,0 +1,31 @@
+{
+    "workshoptitle": "Identity and Access Managementラボ",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "filename": "./../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも二番目です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "IAMの前提条件",
+            "filename": "./../../prerequisites/iam_ja.md"
+        },
+        {
+            "title": "演習1: アイデンティティ・ドメインのないIAM",
+            "filename": "./../../iam/identity-access-management_ja.md"
+        },
+        {
+            "title": "演習2: アイデンティティ・ドメインを使用したIAM",
+            "filename": "./../../iam/identity-access-management-identy-domain_ja.md"
+        },
+        {
+            "title": "Oracle CloudWorld 2022 - ヘルプの入手",
+            "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+        }
+    ]
+}
